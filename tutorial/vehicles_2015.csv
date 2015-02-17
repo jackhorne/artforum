@@ -1,0 +1,1228 @@
+make,model,year,drive,transmission,vclass,fe_score,cylinders,displ,mpg_city,mpg_hwy,mpg_combined,bbl_annual,co2,fuel_cost,fuel_save
+Acura,ILX,2015,Front-Wheel Drive,Automatic (S5),Compact Cars,7,4,2,24.3335,35.124,28.2372,11.75609,316,1600,0
+Acura,ILX,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2.4,21.8,31,25.3358,13.1844,350,1750,-750
+Acura,MDX 2WD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,6,3.5,19.8102,28.4694,22.9516,14.327048,387,1900,-1500
+Acura,MDX 4WD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3.5,18.3949,26.9579,21.4628,15.689436,416,2100,-2500
+Acura,RDX 2WD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,6,3.5,19.9584,28.2637,22.9997,14.327048,385,1900,-1500
+Acura,RDX 4WD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3.5,19.4391,26.9579,22.229,14.964294,399,2000,-2000
+Acura,RLX,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,6,3.5,19.7916,30.7245,23.565,13.73375,378,1850,-1250
+Acura,TLX,2015,Front-Wheel Drive,Auto(AM8),Compact Cars,7,4,2.4,24,35,28,11.75609,316,1600,0
+Acura,TLX,2015,Front-Wheel Drive,Automatic (S9),Compact Cars,6,6,3.5,21,34,25,13.1844,358,1750,-750
+Acura,TLX AWD,2015,All-Wheel Drive,Automatic (S9),Compact Cars,6,6,3.5,21.395,31,25.2057,13.1844,357,1750,-750
+Alfa Romeo,4C,2015,Rear-Wheel Drive,Auto(AM6),Two Seaters,7,4,1.8,24.2492,34.3275,27.9406,11.75609,317,1600,0
+Aston Martin,DB9,2015,Rear-Wheel Drive,Automatic (S6),Minicompact Cars,3,12,5.9,13.0796,18.6649,15.1149,21.974,588,2950,-6750
+Aston Martin,Rapide S,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,4,12,6,13.9856,21.5191,16.6008,19.381068,534,2600,-5000
+Aston Martin,V12 Vantage S,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,2,12,6,12.0366,18.3154,14.2321,23.534154,628,3150,-7750
+Aston Martin,V8 Vantage,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,3,8,4.7,12.9916,19.1766,15.1973,21.974,581,2950,-6750
+Aston Martin,V8 Vantage,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,3,8,4.7,13.5127,20.7709,16.034,20.589638,551,2750,-5750
+Aston Martin,V8 Vantage S,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,3,8,4.7,12.9916,19.1766,15.1973,21.974,581,2950,-6750
+Aston Martin,V8 Vantage S,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,3,8,4.7,13.5127,20.7709,16.034,20.589638,551,2750,-5750
+Aston Martin,Vanquish,2015,Rear-Wheel Drive,Automatic (S8),Minicompact Cars,3,12,6,13.3935,20.7097,15.9252,20.589638,557,2750,-5750
+Aston Martin,Vantage GT,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,3,8,4.7,12.9916,19.1766,15.1973,21.974,581,2950,-6750
+Aston Martin,Vantage GT,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,3,8,4.7,13.5127,20.7709,16.034,20.589638,551,2750,-5750
+Audi,A3,2015,Front-Wheel Drive,Auto(AM-S6),Subcompact Cars,7,4,1.8,23.4556,33.3421,27.0673,12.19557,328,1650,-250
+Audi,A3,2015,Front-Wheel Drive,Auto(AM-S6),Subcompact Cars,8,4,2,31.1996,43.0359,35.6064,10.599264,285,1500,500
+Audi,A3 Cabriolet,2015,Front-Wheel Drive,Auto(AM-S6),Subcompact Cars,7,4,1.8,24.3444,34.5845,28.0867,11.75609,314,1600,0
+Audi,A3 Cabriolet quattro,2015,All-Wheel Drive,Auto(AM-S6),Subcompact Cars,6,4,2,23.312,31.5429,26.4136,12.657024,334,1700,-500
+Audi,A3 quattro,2015,All-Wheel Drive,Auto(AM-S6),Subcompact Cars,7,4,2,24.0818,32.6198,27.297,12.19557,323,1650,-250
+Audi,A4,2015,Front-Wheel Drive,Auto(AV-S8),Compact Cars,7,4,2,23.6858,31.6788,26.7189,12.19557,332,1650,-250
+Audi,A4 quattro,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2,22.1972,32.0693,25.7665,12.657024,343,1700,-500
+Audi,A4 quattro,2015,All-Wheel Drive,Automatic (S8),Compact Cars,6,4,2,21.5783,30.5883,24.8755,13.1844,356,1750,-750
+Audi,A5 Cabriolet quattro,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,6,4,2,20.8442,29.2228,23.9319,13.73375,370,1850,-1250
+Audi,A5 quattro,2015,All-Wheel Drive,Manual 6-spd,Subcompact Cars,6,4,2,22.1972,32.0693,25.7665,12.657024,343,1700,-500
+Audi,A5 quattro,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,6,4,2,21.5783,30.5883,24.8755,13.1844,356,1750,-750
+Audi,A6,2015,Front-Wheel Drive,Auto(AV-S8),Midsize Cars,7,4,2,24.5044,32.5529,27.5721,11.75609,320,1600,0
+Audi,A6 quattro,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,5,4,2,19.6106,28.8603,22.9156,14.327048,386,1900,-1500
+Audi,A6 quattro,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,7,6,3,24.4094,38.0485,29.1042,13.172643,349,1850,-1250
+Audi,A6 quattro,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,5,6,3,18.3949,27.2332,21.5408,14.964294,412,2000,-2000
+Audi,A7 quattro,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,7,6,3,24.4094,38.0485,29.1042,13.172643,349,1850,-1250
+Audi,A7 quattro,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,5,6,3,18.0028,27.5267,21.3226,15.689436,416,2100,-2500
+Audi,A8,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,5,6,3,18.6853,29.3211,22.3303,14.964294,397,2000,-2000
+Audi,A8,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,5,8,4,18.2315,29.5343,22.0244,14.964294,401,2000,-2000
+Audi,A8 L,2015,All-Wheel Drive,Automatic (S8),Large Cars,7,6,3,23.8727,36.3252,28.2271,13.631265,360,1900,-1500
+Audi,A8 L,2015,All-Wheel Drive,Automatic (S8),Large Cars,5,6,3,18.6853,29.3211,22.3303,14.964294,397,2000,-2000
+Audi,A8 L,2015,All-Wheel Drive,Automatic (S8),Large Cars,5,8,4,17.9485,28.5015,21.5369,14.964294,410,2000,-2000
+Audi,A8 L,2015,All-Wheel Drive,Automatic (S8),Large Cars,4,12,6.3,13.8358,21.9706,16.602,19.381068,534,2600,-5000
+Audi,allroad quattro,2015,All-Wheel Drive,Automatic (S8),Small Station Wagons,6,4,2,21.0646,27.9892,23.7037,13.73375,373,1850,-1250
+Audi,Q3,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,5,4,2,19.6619,28.538,22.8617,14.327048,389,1900,-1500
+Audi,Q3 quattro,2015,All-Wheel Drive,Automatic (S6),Compact Cars,5,4,2,19.7028,28.0105,22.7375,14.327048,387,1900,-1500
+Audi,Q5,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,5,4,2,19.6619,27.5771,22.5781,14.327048,393,1900,-1500
+Audi,Q5,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,7,6,3,23.6266,31.3636,26.5783,14.140845,385,1950,-1750
+Audi,Q5,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,5,6,3,17.8443,25.5746,20.6536,15.689436,429,2100,-2500
+Audi,Q5 Hybrid,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,6,4,2,24.0075,29.7936,26.3065,12.657024,337,1700,-500
+Audi,Q7,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,5,6,3,18.74,27.62,21.9099,17.351199,464,2400,-4000
+Audi,Q7,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,4,6,3,15.5983,21.6157,17.8322,18.304342,498,2450,-4250
+Audi,R8,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,4,8,4.2,13.5631,22.5823,16.5348,19.381068,538,2600,-5000
+Audi,R8,2015,All-Wheel Drive,Manual 6-spd,Two Seaters,2,8,4.2,11.4565,20.056,14.1955,23.534154,622,3150,-7750
+Audi,R8,2015,All-Wheel Drive,Manual 6-spd,Two Seaters,2,10,5.2,11.7338,19.4192,14.2763,23.534154,618,3150,-7750
+Audi,R8,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,3,10,5.2,12.9942,22.2057,15.9766,20.589638,557,2750,-5750
+Audi,R8 Spyder,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,4,8,4.2,13.5631,22.5823,16.5348,19.381068,538,2600,-5000
+Audi,R8 Spyder,2015,All-Wheel Drive,Manual 6-spd,Two Seaters,2,8,4.2,11.4565,20.056,14.1955,23.534154,622,3150,-7750
+Audi,R8 Spyder,2015,All-Wheel Drive,Manual 6-spd,Two Seaters,2,10,5.2,11.7338,19.4192,14.2763,23.534154,618,3150,-7750
+Audi,R8 Spyder,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,3,10,5.2,12.9942,22.2057,15.9766,20.589638,557,2750,-5750
+Audi,RS 5,2015,All-Wheel Drive,Auto(AM-S7),Subcompact Cars,4,8,4.2,15.7409,23.3075,18.4339,18.304342,480,2450,-4250
+Audi,RS 5 Cabriolet,2015,All-Wheel Drive,Auto(AM-S7),Subcompact Cars,4,8,4.2,15.8793,22.1836,18.2078,18.304342,486,2450,-4250
+Audi,RS 7,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,4,8,4,15.5443,26.5587,19.1108,17.337486,466,2350,-3750
+Audi,S3,2015,All-Wheel Drive,Auto(AM-S6),Subcompact Cars,6,4,2,23.1833,30.7065,26.056,12.657024,340,1700,-500
+Audi,S4,2015,All-Wheel Drive,Auto(AM-S7),Compact Cars,5,6,3,18.117,27.558,21.419,15.689436,413,2100,-2500
+Audi,S4,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,5,6,3,17.0438,26.023,20.1767,16.4805,439,2200,-3000
+Audi,S5,2015,All-Wheel Drive,Auto(AM-S7),Subcompact Cars,5,6,3,18.117,27.558,21.419,15.689436,413,2100,-2500
+Audi,S5,2015,All-Wheel Drive,Manual 6-spd,Subcompact Cars,5,6,3,17.0438,26.023,20.1767,16.4805,439,2200,-3000
+Audi,S5 Cabriolet,2015,All-Wheel Drive,Auto(AM-S7),Subcompact Cars,5,6,3,17.6699,25.953,20.6333,15.689436,428,2100,-2500
+Audi,S6,2015,All-Wheel Drive,Auto(AM-S7),Midsize Cars,5,8,4,16.7533,26.9042,20.1794,16.4805,441,2200,-3000
+Audi,S7,2015,All-Wheel Drive,Auto(AM-S7),Midsize Cars,5,8,4,16.7533,26.9042,20.1794,16.4805,441,2200,-3000
+Audi,S8,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,5,8,4,16.5369,26.7008,19.9551,16.4805,442,2200,-3000
+Audi,SQ5,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,4,6,3,16.7285,23.6581,19.2682,17.337486,458,2350,-3750
+Audi,TT Coupe quattro,2015,All-Wheel Drive,Auto(AM-S6),Subcompact Cars,6,4,2,22.3665,31.1759,25.6242,12.657024,345,1700,-500
+Audi,TT Roadster quattro,2015,All-Wheel Drive,Auto(AM-S6),Two Seaters,6,4,2,22.3665,31.1759,25.6242,12.657024,345,1700,-500
+Bentley,Continental GT,2015,All-Wheel Drive,Automatic (S8),Compact Cars,4,8,4,15.2087,25.3816,18.5553,17.337486,475,2350,-3750
+Bentley,Continental GT,2015,All-Wheel Drive,Automatic (S8),Compact Cars,3,12,6,12.4737,21.0866,15.2827,21.974,580,2950,-6750
+Bentley,Continental GT Convertible,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,4,8,4,13.819,23.8488,17.0447,19.381068,517,2600,-5000
+Bentley,Continental GT Convertible,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,3,12,6,12.0228,20.0478,14.6643,21.974,604,2950,-6750
+Bentley,Continental GT3-R,2015,All-Wheel Drive,Automatic (S8),Two Seaters,4,8,4,13.362,23.3629,16.55,19.381068,535,2600,-5000
+Bentley,Flying Spur,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,4,8,4,13.819,23.8488,17.0447,19.381068,517,2600,-5000
+Bentley,Flying Spur,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,3,12,6,12.0228,20.0478,14.6643,21.974,604,2950,-6750
+Bentley,Mulsanne,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,1,8,6.8,10.5402,17.7129,12.8889,25.336022,688,3400,-9000
+BMW,228i,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,7,4,2,23.4686,35.7478,27.7594,11.75609,320,1600,0
+BMW,228i,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,6,4,2,21.9214,34.0405,26.1034,12.657024,341,1700,-500
+BMW,228i Convertible,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,7,4,2,22.7571,33.6948,26.65,12.19557,334,1650,-250
+BMW,228i xDrive,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,7,4,2,22.9234,35.0269,27.1443,12.19557,329,1650,-250
+BMW,228i xDrive Convertible,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,6,4,2,22.2415,33.1768,26.115,12.657024,340,1700,-500
+BMW,320i,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,7,4,2,23.503,35.9751,27.8474,11.75609,320,1600,0
+BMW,320i,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,7,4,2,23.0351,35.8454,27.4495,12.19557,322,1650,-250
+BMW,320i xDrive,2015,All-Wheel Drive,Automatic (S8),Compact Cars,7,4,2,22.9234,35.0269,27.1443,12.19557,329,1650,-250
+BMW,328d,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,9,4,2,31.5955,45.1272,36.5239,10.318995,279,1450,750
+BMW,328d xDrive,2015,All-Wheel Drive,Automatic (S8),Compact Cars,8,4,2,30.909,42.5238,35.2404,10.905012,288,1500,500
+BMW,328d xDrive Sports Wagon,2015,All-Wheel Drive,Automatic (S8),Small Station Wagons,8,4,2,30.909,42.5238,35.2404,10.905012,288,1500,500
+BMW,328i,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,7,4,2,22.9781,35.4361,27.2965,12.19557,324,1650,-250
+BMW,328i,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2,21.9214,34.0405,26.1034,12.657024,341,1700,-500
+BMW,328i xDrive,2015,All-Wheel Drive,Automatic (S8),Compact Cars,6,4,2,22.2558,33.24,26.1434,12.657024,340,1700,-500
+BMW,328i xDrive Gran Turismo,2015,All-Wheel Drive,Automatic (S8),Large Cars,6,4,2,22.2558,33.24,26.1434,12.657024,340,1700,-500
+BMW,328i xDrive Sports Wagon,2015,All-Wheel Drive,Automatic (S8),Small Station Wagons,6,4,2,22.2558,33.24,26.1434,12.657024,340,1700,-500
+BMW,335i,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,6,6,3,21.0376,32.0038,24.8728,13.1844,358,1750,-750
+BMW,335i,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,6,6,3,20.2319,30.0026,23.706,13.73375,376,1850,-1250
+BMW,335i xDrive,2015,All-Wheel Drive,Automatic (S8),Compact Cars,6,6,3,20.0361,30.2771,23.6333,13.73375,377,1850,-1250
+BMW,335i xDrive,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,5,6,3,19.5185,28.286,22.6823,14.327048,393,1900,-1500
+BMW,335i xDrive Gran Turismo,2015,All-Wheel Drive,Automatic (S8),Large Cars,6,6,3,20.0361,30.2771,23.6333,13.73375,377,1850,-1250
+BMW,428i Convertible,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,7,4,2,22.7397,33.5706,26.6018,12.19557,334,1650,-250
+BMW,428i Coupe,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2,21.9214,34.0405,26.1034,12.657024,341,1700,-500
+BMW,428i Coupe,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,7,4,2,22.9781,35.4361,27.2965,12.19557,324,1650,-250
+BMW,428i Gran Coupe,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,7,4,2,22.7397,33.5706,26.6018,12.19557,334,1650,-250
+BMW,428i xDrive Convertible,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,6,4,2,21.1282,32.9708,25.2016,13.1844,354,1750,-750
+BMW,428i xDrive Coupe,2015,All-Wheel Drive,Automatic (S8),Compact Cars,6,4,2,22.2558,33.24,26.1434,12.657024,340,1700,-500
+BMW,428i xDrive Gran Coupe,2015,All-Wheel Drive,Automatic (S8),Compact Cars,6,4,2,22.0799,32.4614,25.7917,12.657024,344,1700,-500
+BMW,435i Convertible,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,6,6,3,19.9942,30.6494,23.7022,13.73375,374,1850,-1250
+BMW,435i Coupe,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,6,6,3,21.0376,32.0038,24.8728,13.1844,358,1750,-750
+BMW,435i Coupe,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,6,6,3,20.2319,30.0026,23.706,13.73375,376,1850,-1250
+BMW,435i Gran Coupe,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,6,6,3,21.0376,32.0038,24.8728,13.1844,358,1750,-750
+BMW,435i xDrive Convertible,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,5,6,3,19.782,29.1395,23.1236,14.327048,382,1900,-1500
+BMW,435i xDrive Coupe,2015,All-Wheel Drive,Automatic (S8),Compact Cars,6,6,3,20.0361,30.2771,23.6333,13.73375,377,1850,-1250
+BMW,435i xDrive Coupe,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,5,6,3,19.5185,28.286,22.6823,14.327048,393,1900,-1500
+BMW,435i xDrive Gran Coupe,2015,All-Wheel Drive,Automatic (S8),Compact Cars,6,6,3,20.0312,30.5196,23.6956,13.73375,375,1850,-1250
+BMW,528i,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,7,4,2,22.7397,33.5706,26.6018,12.19557,334,1650,-250
+BMW,528i xDrive,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,6,4,2,22.2558,33.24,26.1434,12.657024,340,1700,-500
+BMW,535d,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,7,6,3,26.0246,37.9794,30.3192,12.7395,334,1750,-750
+BMW,535d xDrive,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,7,6,3,25.692,37.3076,29.8781,12.7395,338,1750,-750
+BMW,535i,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,6,6,3,19.9942,30.6494,23.7022,13.73375,374,1850,-1250
+BMW,535i Gran Turismo,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,5,6,3,18.9989,27.5202,22.0747,14.964294,403,2000,-2000
+BMW,535i xDrive,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,5,6,3,19.782,29.1395,23.1236,14.327048,382,1900,-1500
+BMW,535i xDrive Gran Turismo,2015,All-Wheel Drive,Automatic (S8),Large Cars,5,6,3,18.4073,26.4734,21.3322,15.689436,418,2100,-2500
+BMW,550i,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,5,8,4.4,16.6769,24.9327,19.597,16.4805,438,2200,-3000
+BMW,550i Gran Turismo,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,4,8,4.4,16.3146,24.6586,19.2451,17.337486,463,2350,-3750
+BMW,550i xDrive,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,4,8,4.4,16.3717,24.5799,19.267,17.337486,461,2350,-3750
+BMW,550i xDrive Gran Turismo,2015,All-Wheel Drive,Automatic (S8),Large Cars,4,8,4.4,15.7286,24.0457,18.628,17.337486,477,2350,-3750
+BMW,640i Convertible,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,6,6,3,19.9942,30.6494,23.7022,13.73375,374,1850,-1250
+BMW,640i Coupe,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,6,6,3,21.0376,32.0038,24.8728,13.1844,358,1750,-750
+BMW,640i Gran Coupe,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,6,6,3,19.9942,30.6494,23.7022,13.73375,374,1850,-1250
+BMW,640i xDrive Convertible,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,5,6,3,19.782,29.1395,23.1236,14.327048,382,1900,-1500
+BMW,640i xDrive Coupe,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,5,6,3,19.782,29.1395,23.1236,14.327048,382,1900,-1500
+BMW,640i xDrive Gran Coupe,2015,All-Wheel Drive,Automatic (S8),Compact Cars,5,6,3,19.782,29.1395,23.1236,14.327048,382,1900,-1500
+BMW,650i Convertible,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,5,8,4.4,16.6769,24.6788,19.5259,16.4805,440,2200,-3000
+BMW,650i Coupe,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,5,8,4.4,16.6769,24.6788,19.5259,16.4805,440,2200,-3000
+BMW,650i Gran Coupe,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,5,8,4.4,16.6769,24.6788,19.5259,16.4805,440,2200,-3000
+BMW,650i xDrive Convertible,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,4,8,4.4,15.7286,24.0457,18.628,17.337486,477,2350,-3750
+BMW,650i xDrive Coupe,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,4,8,4.4,16.3717,24.5799,19.267,17.337486,461,2350,-3750
+BMW,650i xDrive Gran Coupe,2015,All-Wheel Drive,Automatic (S8),Compact Cars,4,8,4.4,15.7286,24.0457,18.628,17.337486,477,2350,-3750
+BMW,740i,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,5,6,3,19.1963,28.7584,22.5739,14.327048,394,1900,-1500
+BMW,740Ld xDrive,2015,All-Wheel Drive,Automatic (S8),Large Cars,6,6,3,23.0876,31.1342,26.1261,14.675904,387,2050,-2250
+BMW,740Li,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,5,6,3,19.1963,28.7584,22.5739,14.327048,394,1900,-1500
+BMW,740Li xDrive,2015,All-Wheel Drive,Automatic (S8),Large Cars,5,6,3,19.0204,27.8862,22.1959,14.964294,400,2000,-2000
+BMW,750i,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,5,8,4.4,16.6769,24.9327,19.597,16.4805,438,2200,-3000
+BMW,750i xDrive,2015,All-Wheel Drive,Automatic (S8),Large Cars,4,8,4.4,15.7286,24.0457,18.628,17.337486,477,2350,-3750
+BMW,750Li,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,4,8,4.4,16.3146,24.6586,19.2451,17.337486,463,2350,-3750
+BMW,750Li xDrive,2015,All-Wheel Drive,Automatic (S8),Large Cars,4,8,4.4,15.7286,24.0457,18.628,17.337486,477,2350,-3750
+BMW,760Li,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,3,12,6,12.5912,20.3551,15.2002,21.974,586,2950,-6750
+BMW,ActiveHybrid 3,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,7,6,3,25.3913,32.8862,28.2929,11.75609,314,1600,0
+BMW,ActiveHybrid 5,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,6,6,3,22.7855,30.3125,25.6519,12.657024,346,1700,-500
+BMW,ActiveHybrid 7L,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,6,6,3,22.4237,30.4412,25.4387,13.1844,350,1750,-750
+BMW,Alpina B6 Gran Coupe xDrive,2015,All-Wheel Drive,Automatic (S8),Compact Cars,4,8,4.4,15.7286,24.0457,18.628,17.337486,477,2350,-3750
+BMW,Alpina B7 LWB,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,4,8,4.4,16.3146,24.6586,19.2451,17.337486,463,2350,-3750
+BMW,Alpina B7 LWB xDrive,2015,All-Wheel Drive,Automatic (S8),Large Cars,4,8,4.4,15.7286,24.0457,18.628,17.337486,477,2350,-3750
+BMW,Alpina B7 SWB,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,4,8,4.4,16.3146,24.6586,19.2451,17.337486,463,2350,-3750
+BMW,Alpina B7 SWB xDrive,2015,All-Wheel Drive,Automatic (S8),Large Cars,4,8,4.4,15.7286,24.0457,18.628,17.337486,477,2350,-3750
+BMW,M235i,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,6,6,3,21.0376,32.0038,24.8728,13.1844,358,1750,-750
+BMW,M235i,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,5,6,3,19.0667,27.9268,22.2421,14.964294,392,2000,-2000
+BMW,M235i Convertible,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,6,6,3,21.0183,31.9518,24.8439,13.1844,358,1750,-750
+BMW,M235i Convertible,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,5,6,3,19.067,26.2687,21.7504,14.964294,408,2000,-2000
+BMW,M235i xDrive,2015,All-Wheel Drive,Automatic (S8),Subcompact Cars,6,6,3,20.0361,30.2771,23.6333,13.73375,377,1850,-1250
+BMW,M3,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,5,6,3,17.0154,26.0077,20.1507,16.4805,439,2200,-3000
+BMW,M3,2015,Rear-Wheel Drive,Auto(AM-S7),Compact Cars,4,6,3,16.6371,24.1492,19.345,17.337486,459,2350,-3750
+BMW,M4 Convertible,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,5,6,3,17.0154,26.0077,20.1507,16.4805,439,2200,-3000
+BMW,M4 Convertible,2015,Rear-Wheel Drive,Auto(AM-S7),Subcompact Cars,4,6,3,16.5948,24,19.4369,17.337486,458,2350,-3750
+BMW,M4 Coupe,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,5,6,3,17.0154,26.0077,20.1507,16.4805,439,2200,-3000
+BMW,M4 Coupe,2015,Rear-Wheel Drive,Auto(AM-S7),Compact Cars,4,6,3,16.6371,24.1492,19.345,17.337486,459,2350,-3750
+BMW,M5,2015,Rear-Wheel Drive,Manual 6-spd,Midsize Cars,4,8,4.4,14.6229,21.6157,17.1143,19.381068,517,2600,-5000
+BMW,M5,2015,Rear-Wheel Drive,Auto(AM-S7),Midsize Cars,3,8,4.4,13.5879,20.3625,15.9804,20.589638,554,2750,-5750
+BMW,M6 Convertible,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,4,8,4.4,14.6229,21.6157,17.1143,19.381068,517,2600,-5000
+BMW,M6 Convertible,2015,Rear-Wheel Drive,Auto(AM-S7),Subcompact Cars,3,8,4.4,13.5879,20.3625,15.9804,20.589638,554,2750,-5750
+BMW,M6 Coupe,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,4,8,4.4,14.6229,21.6157,17.1143,19.381068,517,2600,-5000
+BMW,M6 Coupe,2015,Rear-Wheel Drive,Auto(AM-S7),Subcompact Cars,3,8,4.4,13.5879,20.3625,15.9804,20.589638,554,2750,-5750
+BMW,M6 Gran Coupe,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,4,8,4.4,14.6229,21.6157,17.1143,19.381068,517,2600,-5000
+BMW,M6 Gran Coupe,2015,Rear-Wheel Drive,Auto(AM-S7),Compact Cars,3,8,4.4,13.5879,20.3625,15.9804,20.589638,554,2750,-5750
+BMW,X1 sDrive28i,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,7,4,2,22.7397,33.5706,26.6018,12.19557,334,1650,-250
+BMW,X1 xDrive28i,2015,All-Wheel Drive,Automatic (S8),Large Cars,6,4,2,22.061,32.4178,25.7652,12.657024,345,1700,-500
+BMW,X1 xDrive35i,2015,All-Wheel Drive,Automatic (S6),Large Cars,5,6,3,17.8699,26.5446,20.9509,15.689436,423,2100,-2500
+BMW,X3 sDrive 28i,2015,Rear-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 2WD,6,4,2,21.1285,28.0235,23.7591,13.73375,372,1850,-1250
+BMW,X3 xDrive28d,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,7,4,2,27.2345,34.0449,29.9287,12.7395,340,1750,-750
+BMW,X3 xDrive28i,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,6,4,2,21.1285,28.0235,23.7591,13.73375,372,1850,-1250
+BMW,X3 xDrive35i,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,5,6,3,18.7674,25.7807,21.3853,15.689436,415,2100,-2500
+BMW,X4 xDrive28i,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,5,4,2,20.0637,28.0067,22.9989,14.327048,386,1900,-1500
+BMW,X4 xDrive35i,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,5,6,3,18.6153,26.7146,21.5562,14.964294,413,2000,-2000
+BMW,X5 sDrive35i,2015,Rear-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 2WD,5,6,3,18.6463,27.1777,21.7136,14.964294,410,2000,-2000
+BMW,X5 xDrive 35d,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,7,6,3,24,30.975,27.0634,14.140845,381,1950,-1750
+BMW,X5 xDrive35i,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,5,6,3,18.2025,26.5436,21.2005,15.689436,419,2100,-2500
+BMW,X5 xDrive50i,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,4,8,4.4,14.7361,21.6102,17.1979,19.381068,517,2600,-5000
+BMW,X6 sDrive35i,2015,Rear-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 2WD,5,6,3,18.6463,27.1777,21.7136,14.964294,410,2000,-2000
+BMW,X6 xDrive35i,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,5,6,3,18.2025,26.5436,21.2005,15.689436,419,2100,-2500
+BMW,X6 xDrive50i,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,4,8,4.4,14.7361,21.6102,17.1979,19.381068,517,2600,-5000
+BMW,Z4 sDrive28i,2015,Rear-Wheel Drive,Automatic (S8),Two Seaters,6,4,2,21.9803,33.2305,25.9308,12.657024,341,1700,-500
+BMW,Z4 sDrive28i,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,6,4,2,22.2199,34.3383,26.4148,12.657024,337,1700,-500
+BMW,Z4 sDrive35i,2015,Rear-Wheel Drive,Auto(AM-S7),Two Seaters,5,6,3,17.1135,23.5293,19.5071,16.4805,454,2200,-3000
+BMW,Z4 sDrive35is,2015,Rear-Wheel Drive,Auto(AM-S7),Two Seaters,5,6,3,17.1135,23.5293,19.5071,16.4805,454,2200,-3000
+Bugatti,Veyron,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,1,16,8,8.4232,14.7698,10.4424,32.961,847,4400,-14000
+Buick,Enclave AWD,2015,All-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,6,3.6,16.1315,22,18,18.304342,494,2100,-2500
+Buick,Enclave FWD,2015,Front-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,6,3.6,16.5112,23.7068,19.1232,17.337486,465,2000,-2000
+Buick,Encore,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,7,4,1.4,25,33,28,11.75609,317,1350,1250
+Buick,Encore AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,6,4,1.4,23,30,26,12.657024,341,1450,750
+Buick,LaCrosse,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,5,6,3.6,17.7986,27.9322,21.2713,15.689436,417,1800,-1000
+Buick,LaCrosse,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,5,6,3.6,18,28,21,15.689436,422,1800,-1000
+Buick,LaCrosse AWD,2015,All-Wheel Drive,Automatic (S6),Midsize Cars,5,6,3.6,16.9656,25.8545,20.0708,16.4805,443,1900,-1500
+Buick,LaCrosse eAssist,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2.4,24.5488,36.1314,28.6871,11.360558,310,1300,1500
+Buick,Regal,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,6,4,2,20.3282,31.133,24.0905,13.73375,369,1600,0
+Buick,Regal,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,4,2,20.5496,29.9062,23.9168,13.73375,371,1600,0
+Buick,Regal,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,5,4,2.4,19.4391,30.9969,23.3584,14.327048,379,1650,-250
+Buick,Regal AWD,2015,All-Wheel Drive,Automatic (S6),Midsize Cars,5,4,2,18.9925,27.0956,21.9459,14.964294,405,1750,-750
+Buick,Regal eAssist,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2.4,24.5488,36.1314,28.6871,11.360558,310,1300,1500
+Buick,Verano,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2,20.3282,31.133,24.0905,13.73375,369,1600,0
+Buick,Verano,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,6,4,2,20.5496,29.9062,23.9168,13.73375,371,1600,0
+Buick,Verano,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,6,4,2.4,21.1383,31.9484,24.935,13.1844,355,1550,250
+Cadillac,ATS,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,5,4,2,19.3376,29.7128,22.9426,14.327048,387,1650,-250
+Cadillac,ATS,2015,Rear-Wheel Drive,Automatic (S6),Compact Cars,6,4,2,21.2261,29.5031,24.293,13.73375,366,1600,0
+Cadillac,ATS,2015,Rear-Wheel Drive,Automatic (S6),Compact Cars,6,4,2.5,21.2585,32.6062,25.206,13.1844,353,1550,250
+Cadillac,ATS,2015,Rear-Wheel Drive,Automatic (S6),Compact Cars,5,6,3.6,18.3949,27.8519,21.7125,14.964294,410,1750,-750
+Cadillac,ATS AWD,2015,All-Wheel Drive,Automatic (S6),Compact Cars,5,4,2,20.402,27.7145,23.1508,14.327048,384,1650,-250
+Cadillac,ATS AWD,2015,All-Wheel Drive,Automatic (S6),Compact Cars,5,6,3.6,18.3949,26.4756,21.3236,15.689436,417,1800,-1000
+Cadillac,CTS,2015,Rear-Wheel Drive,Manual 6-spd,Midsize Cars,3,8,6.2,13.9868,18.6672,15.7656,20.589638,564,2750,-5750
+Cadillac,CTS,2015,Rear-Wheel Drive,Automatic (S6),Midsize Cars,2,8,6.2,11.6832,17.7835,13.8159,23.534154,643,3150,-7750
+Cadillac,CTS Sedan,2015,Rear-Wheel Drive,Automatic (S6),Midsize Cars,6,4,2,20.4224,30.1206,23.8828,13.73375,372,1600,0
+Cadillac,CTS Sedan,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,4,6,3.6,15.5983,23.7762,18.4547,18.304342,481,2450,-4250
+Cadillac,CTS Sedan,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,5,6,3.6,18.3949,28.6751,21.9334,14.964294,405,1750,-750
+Cadillac,CTS Sedan AWD,2015,All-Wheel Drive,Automatic (S6),Midsize Cars,5,4,2,19,27.7145,22,14.964294,404,1750,-750
+Cadillac,CTS Sedan AWD,2015,All-Wheel Drive,Automatic (S6),Midsize Cars,5,6,3.6,18.3949,26.4756,21.3236,15.689436,417,1800,-1000
+Cadillac,ELR,2015,Front-Wheel Drive,Automatic (variable gear ratios),Subcompact Cars,10,4,1.4,31,35,33,3.614241816,91,1350,3250
+Cadillac,Escalade 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,6.2,14.6028,20.8459,16.8774,19.381068,527,2250,-3250
+Cadillac,Escalade 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 2WD,4,8,6.2,14.9098,21.6856,17.3492,19.381068,511,2250,-3250
+Cadillac,Escalade 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,3,8,6.2,14,20.6356,16,20.589638,555,2400,-4000
+Cadillac,Escalade 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,4,8,6.2,14.7564,21.126,17.0728,19.381068,521,2250,-3250
+Cadillac,Escalade ESV 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,6.2,14.6028,20.8459,16.8774,19.381068,527,2250,-3250
+Cadillac,Escalade ESV 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 2WD,4,8,6.2,14.9098,21.6856,17.3492,19.381068,511,2250,-3250
+Cadillac,Escalade ESV 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,3,8,6.2,13.9865,20.0736,16.1967,20.589638,548,2400,-4000
+Cadillac,Escalade ESV 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,3,8,6.2,14.3721,20.0743,16.4785,20.589638,537,2400,-4000
+Cadillac,SRX,2015,Front-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,4,6,3.6,16.5226,23.9348,19.198,17.337486,461,2000,-2000
+Cadillac,SRX AWD,2015,All-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,6,3.6,15.8937,22.6608,18.3611,18.304342,482,2100,-2500
+Cadillac,XTS,2015,Front-Wheel Drive,Automatic (S6),Large Cars,5,6,3.6,17.7985,27.9319,21.2711,15.689436,417,1800,-1000
+Cadillac,XTS AWD,2015,All-Wheel Drive,Automatic (S6),Large Cars,4,6,3.6,15.9033,23.8457,18.7072,17.337486,475,2000,-2000
+Cadillac,XTS AWD,2015,All-Wheel Drive,Automatic (S6),Large Cars,5,6,3.6,17.1167,26.3377,20.3177,16.4805,437,1900,-1500
+Cadillac,XTS Hearse,2015,Front-Wheel Drive,Automatic (S6),Special Purpose Vehicle 2WD,4,6,3.6,14.2138,20.5872,16.5144,19.381068,538,2250,-3250
+Cadillac,XTS Limo,2015,Front-Wheel Drive,Automatic (S6),Special Purpose Vehicle 2WD,4,6,3.6,14.4733,20.9596,16.815,19.381068,528,2250,-3250
+Chevrolet,Camaro,2015,Rear-Wheel Drive,Automatic 6-spd,Compact Cars,5,6,3.6,18.6193,29.8379,22.4111,14.964294,397,1750,-750
+Chevrolet,Camaro,2015,Rear-Wheel Drive,Automatic (S6),Compact Cars,5,6,3.6,17.6325,26.7448,20.8255,15.689436,427,1800,-1000
+Chevrolet,Camaro,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,5,6,3.6,16.8143,27.8519,20.4636,16.4805,434,1900,-1500
+Chevrolet,Camaro,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,3,8,7,12.9802,19.1604,15.1841,21.974,582,2950,-6750
+Chevrolet,Camaro,2015,Rear-Wheel Drive,Automatic (S6),Compact Cars,4,8,6.2,15.421,24.1608,18.4193,18.304342,482,2100,-2500
+Chevrolet,Camaro,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,4,8,6.2,15.6781,23.8503,18.5362,17.337486,479,2350,-3750
+Chevrolet,Camaro,2015,Rear-Wheel Drive,Automatic (S6),Compact Cars,2,8,6.2,11.6798,17.7957,13.8166,23.534154,643,3150,-7750
+Chevrolet,Camaro,2015,Rear-Wheel Drive,Manual 6-spd,Compact Cars,3,8,6.2,13.9868,18.6672,15.7656,20.589638,564,2750,-5750
+Chevrolet,Captiva FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,5,4,2.4,20,28,23,14.327048,386,1650,-250
+Chevrolet,City Express Cargo Van,2015,Front-Wheel Drive,Automatic (variable gear ratios),Special Purpose Vehicle 2WD,6,4,2,24.2617,26.2679,25.1252,13.1844,353,1550,250
+Chevrolet,Colorado 2WD,2015,Rear-Wheel Drive,Manual 6-spd,Small Pickup Trucks 2WD,5,4,2.5,19.216,25.7164,21.6823,14.964294,407,1750,-750
+Chevrolet,Colorado 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Small Pickup Trucks 2WD,5,4,2.5,19.8102,26.6135,22.3853,14.964294,394,1750,-750
+Chevrolet,Colorado 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Small Pickup Trucks 2WD,5,6,3.6,18.0952,25.5781,20.8386,15.689436,425,1800,-1000
+Chevrolet,Colorado 4WD,2015,4-Wheel Drive,Automatic 6-spd,Small Pickup Trucks 4WD,5,4,2.5,18.5445,24.6783,20.8799,15.689436,422,1800,-1000
+Chevrolet,Colorado 4WD,2015,4-Wheel Drive,Automatic 6-spd,Small Pickup Trucks 4WD,5,6,3.6,17.4185,24.0541,19.8873,16.4805,445,1900,-1500
+Chevrolet,Colorado Cab Chassis 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 2WD,3,6,3.6,14.8331,17.4668,15.9128,20.589638,556,2400,-4000
+Chevrolet,Corvette,2015,Rear-Wheel Drive,Manual 7-spd,Two Seaters,5,8,6.2,17.1866,28.6686,20.9651,15.689436,424,2100,-2500
+Chevrolet,Corvette,2015,Rear-Wheel Drive,Automatic (S8),Two Seaters,5,8,6.2,16.0555,29.1151,20.1158,16.4805,441,2200,-3000
+Chevrolet,Corvette,2015,Rear-Wheel Drive,Automatic (S8),Two Seaters,3,8,6.2,13.2907,21.336,21.336,20.589638,552,2750,-5750
+Chevrolet,Corvette,2015,Rear-Wheel Drive,Manual 7-spd,Two Seaters,4,8,6.2,14.9828,22.1562,17.538,18.304342,503,2450,-4250
+Chevrolet,Cruze,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,1.4,25.8335,37.6036,30.0687,10.987,296,1300,1500
+Chevrolet,Cruze,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,1.4,26.1174,37.6703,30.2989,10.987,293,1300,1500
+Chevrolet,Cruze,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,1.8,22.3814,34.7202,26.642,12.19557,333,1400,1000
+Chevrolet,Cruze,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,1.8,24.9068,36.2655,28.9932,11.360558,299,1300,1500
+Chevrolet,Cruze,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,8,4,2,26.8952,46.1112,33.103,11.567466,307,1600,0
+Chevrolet,Cruze Eco,2015,Front-Wheel Drive,Automatic 6-spd,Midsize Cars,8,4,1.4,26.1174,38.6703,30.5852,10.613442,291,1250,1750
+Chevrolet,Cruze Eco,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,8,4,1.4,28.0887,42.1145,33.0404,9.976196,266,1150,2250
+Chevrolet,Equinox AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,20.4354,28.6736,23.4698,14.327048,379,1650,-250
+Chevrolet,Equinox AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,20.4354,28.6736,23.4698,14.327048,379,1650,-250
+Chevrolet,Equinox AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,4,6,3.6,15.9033,23,18.6686,17.337486,468,2000,-2000
+Chevrolet,Equinox FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,22.3062,32.0502,25.8416,12.657024,344,1450,750
+Chevrolet,Equinox FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,22.3062,32.0502,25.8416,12.657024,344,1450,750
+Chevrolet,Equinox FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,5,6,3.6,16.5871,24,19.5158,16.4805,444,1900,-1500
+Chevrolet,Express 2500 2WD Conversion Cargo,2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Cargo Type",1,8,6,10.1563,15.0536,11.8981,27.4675,747,3200,-8000
+Chevrolet,Express 2500 2WD Conversion Cargo,2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Cargo Type",1,8,6,10.2355,15.2672,12.0179,27.4675,740,3200,-8000
+Chevrolet,Express 2500 2WD Passenger,2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,6,10.7097,15.7651,12.5157,25.336022,710,2950,-6750
+Chevrolet,Express 2500 2WD Passenger,2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,4.8,11.1823,16.546,13.0921,25.336022,675,2950,-6750
+Chevrolet,Express 2500 2WD Passenger,2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,6,10.7097,15.7651,12.5157,25.336022,710,2950,-6750
+Chevrolet,Express 3500 2WD Passenger,2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,6,10.5335,15.5396,12.3194,27.4675,721,3200,-8000
+Chevrolet,Express 3500 2WD Passenger,2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,4.8,11.1445,16.5068,13.0526,25.336022,678,2950,-6750
+Chevrolet,Express 3500 2WD Passenger,2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,6,10.5851,15.6356,12.3854,27.4675,718,3200,-8000
+Chevrolet,Impala,2015,Front-Wheel Drive,Automatic (S6),Large Cars,6,4,2.5,22,31,25,13.1844,355,1550,250
+Chevrolet,Impala,2015,Front-Wheel Drive,Automatic (S6),Large Cars,5,6,3.6,17.7986,27.9322,21.2713,15.689436,417,1800,-1000
+Chevrolet,Impala,2015,Front-Wheel Drive,Automatic (S6),Large Cars,5,6,3.6,18.7687,28.6751,22.2236,14.964294,399,1750,-750
+Chevrolet,Impala Limited,2015,Front-Wheel Drive,Automatic 6-spd,Large Cars,5,6,3.6,17.7948,29.633,21.6949,14.964294,408,1750,-750
+Chevrolet,Malibu,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2.5,25.3332,36,29,11.360558,307,1300,1500
+Chevrolet,Malibu,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,4,2,20.5496,29.9062,23.9168,13.73375,371,1600,0
+Chevrolet,Silverado C15 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 2WD,5,6,4.3,17.5537,23.6936,19.8709,16.4805,447,1900,-1500
+Chevrolet,Silverado C15 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 2WD,4,8,5.3,16.1109,22.8499,18.5763,17.337486,478,2000,-2000
+Chevrolet,Silverado C15 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 2WD,4,8,5.3,16.1096,22.8486,18.5749,17.337486,478,2000,-2000
+Chevrolet,Silverado C15 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 2WD,4,8,6.2,14.6028,20.6356,16.8149,19.381068,527,2250,-3250
+Chevrolet,Silverado C15 Cab Chassis 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 2WD,4,6,4.3,16,21,18,18.304342,494,2100,-2500
+Chevrolet,Silverado C15 Cab Chassis 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 2WD,4,8,5.3,15,20,17,19.381068,523,2250,-3250
+Chevrolet,Silverado C15 Cab Chassis 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 2WD,4,8,5.3,15,20,17,19.381068,523,2250,-3250
+Chevrolet,Silverado K15 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 4WD,4,6,4.3,16.6205,22.213,18.7441,17.337486,475,2000,-2000
+Chevrolet,Silverado K15 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 4WD,4,8,5.3,15.8212,22.0485,18.1248,18.304342,490,2100,-2500
+Chevrolet,Silverado K15 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 4WD,4,8,5.3,15.8156,22.0473,18.1204,18.304342,490,2100,-2500
+Chevrolet,Silverado K15 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 4WD,4,8,6.2,14.7564,21.126,17.0728,19.381068,521,2250,-3250
+Chevrolet,Silverado K15 Cab Chassis 4WD,2015,4-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 4WD,4,6,4.3,16,20,18,18.304342,494,2100,-2500
+Chevrolet,Silverado K15 Cab Chassis 4WD,2015,4-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 4WD,4,8,5.3,15,19,17,19.381068,523,2250,-3250
+Chevrolet,Silverado K15 Cab Chassis 4WD,2015,4-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 4WD,4,8,5.3,15,19,17,19.381068,523,2250,-3250
+Chevrolet,Sonic,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,8,4,1.4,26.8952,36.6005,30.5393,10.613442,291,1250,1750
+Chevrolet,Sonic,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,8,4,1.4,28.5076,39.8665,32.7003,9.976196,271,1150,2250
+Chevrolet,Sonic,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.8,24.5488,35.3257,28.4552,11.75609,312,1350,1250
+Chevrolet,Sonic,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,7,4,1.8,26.2591,34.7875,29.5152,10.987,301,1300,1500
+Chevrolet,Sonic 5,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,8,4,1.4,26.8952,36.6005,30.5393,10.613442,291,1250,1750
+Chevrolet,Sonic 5,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,8,4,1.4,28.5076,39.8665,32.7003,9.976196,271,1150,2250
+Chevrolet,Sonic 5,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,1.8,24.5488,35.3257,28.4552,11.75609,312,1350,1250
+Chevrolet,Sonic 5,2015,Front-Wheel Drive,Manual 5-spd,Midsize Cars,7,4,1.8,26.2591,34.7875,29.5152,10.987,301,1300,1500
+Chevrolet,Sonic 5 RS,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,1.4,24.9783,33,28.2949,11.75609,317,1350,1250
+Chevrolet,Sonic 5 RS,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,1.4,27.0361,33.9787,29.7736,10.987,298,1300,1500
+Chevrolet,Sonic RS,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.4,24.9783,33,28.2949,11.75609,317,1350,1250
+Chevrolet,Sonic RS,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.4,27.0361,33.9787,29.7736,10.987,298,1300,1500
+Chevrolet,Spark,2015,Front-Wheel Drive,Automatic (variable gear ratios),Subcompact Cars,8,4,1.2,30.4456,38.6703,33.6679,9.690534,264,1100,2500
+Chevrolet,Spark,2015,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,8,4,1.2,31.1996,39.2689,34.3786,9.690534,258,1100,2500
+Chevrolet,Spark EV,2015,Front-Wheel Drive,Automatic (A1),Subcompact Cars,10,NA,NA,128.2,109.2,118.9,0.168,0,500,5500
+Chevrolet,SS,2015,Rear-Wheel Drive,Automatic (S6),Large Cars,4,8,6.2,14.0639,21.126,16.5541,19.381068,538,2600,-5000
+Chevrolet,SS,2015,Rear-Wheel Drive,Manual 6-spd,Large Cars,4,8,6.2,15,21,17,19.381068,523,2600,-5000
+Chevrolet,Suburban C1500 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,5.3,15.8271,23.22,18.4739,18.304342,481,2100,-2500
+Chevrolet,Suburban C1500 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,5.3,15.8271,23.22,18.4739,18.304342,481,2100,-2500
+Chevrolet,Suburban K1500 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,8,5.3,15.2927,21.7555,17.6525,18.304342,503,2100,-2500
+Chevrolet,Suburban K1500 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,8,5.3,15.2927,21.7555,17.6525,18.304342,503,2100,-2500
+Chevrolet,Tahoe C1500 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,5.3,15.8271,23.22,18.4739,18.304342,481,2100,-2500
+Chevrolet,Tahoe C1500 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,5.3,15.8271,23.22,18.4739,18.304342,481,2100,-2500
+Chevrolet,Tahoe K1500 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,8,5.3,15.522,21.8254,17.8407,18.304342,498,2100,-2500
+Chevrolet,Tahoe K1500 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,8,5.3,15.522,21.8254,17.8407,18.304342,498,2100,-2500
+Chevrolet,Traverse AWD,2015,All-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,6,3.6,16.1315,23.1504,18.6801,17.337486,476,2000,-2000
+Chevrolet,Traverse FWD,2015,Front-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,6,3.6,16.5112,23.7068,19.1232,17.337486,465,2000,-2000
+Chevrolet,Trax,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,7,4,1.4,25.8335,34,29,11.360558,306,1300,1500
+Chevrolet,Trax AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,7,4,1.4,24.1899,31.133,26.8883,12.19557,330,1400,1000
+Chevrolet,Volt,2015,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,10,4,1.4,34.9,39.7,36.9,3.092538804,81,1200,4000
+Chrysler,200,2015,Front-Wheel Drive,Automatic 9-spd,Midsize Cars,7,4,2.4,23.0351,36,27.6966,11.75609,322,1350,1250
+Chrysler,200,2015,Front-Wheel Drive,Automatic 9-spd,Midsize Cars,7,4,2.4,23.0351,36,27.6966,11.75609,322,1350,1250
+Chrysler,200,2015,Front-Wheel Drive,Automatic 9-spd,Midsize Cars,5,6,3.6,18.9925,31.5409,23.1342,14.327048,385,1650,-250
+Chrysler,200,2015,Front-Wheel Drive,Automatic 9-spd,Midsize Cars,5,6,3.6,18.9925,31.5409,23.1342,14.327048,385,1650,-250
+Chrysler,300,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.6,18.9925,30.6564,22.916,14.327048,386,1650,-250
+Chrysler,300,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.6,18.9925,30.6564,22.916,14.327048,386,1650,-250
+Chrysler,300,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,4,8,5.7,15.9033,25.2316,19.0771,17.337486,465,2200,-3000
+Chrysler,200 AWD,2015,All-Wheel Drive,Automatic 9-spd,Midsize Cars,5,6,3.6,18.3197,28.8804,21.928,14.964294,403,1750,-750
+Chrysler,200 AWD,2015,All-Wheel Drive,Automatic 9-spd,Midsize Cars,5,6,3.6,18.3197,28.8804,21.928,14.964294,403,1750,-750
+Chrysler,300 AWD,2015,All-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.6,18.32,27.2332,21.4842,15.689436,413,1800,-1000
+Chrysler,300 AWD,2015,All-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.6,18.32,27.2332,21.4842,15.689436,413,1800,-1000
+Chrysler,Town and Country,2015,Front-Wheel Drive,Automatic 6-spd,Minivan - 2WD,5,6,3.6,17.1167,25.0939,19.974,16.4805,444,1900,-1500
+Chrysler,Town and Country,2015,Front-Wheel Drive,Automatic 6-spd,Minivan - 2WD,5,6,3.6,17.1167,25.0939,19.974,16.4805,444,1900,-1500
+Dodge,Challenger,2015,Rear-Wheel Drive,Automatic 8-spd,Midsize Cars,5,6,3.6,18.9925,30,22.916,14.327048,389,1650,-250
+Dodge,Challenger,2015,Rear-Wheel Drive,Automatic 8-spd,Midsize Cars,4,8,5.7,15.9033,25.2316,19.0771,17.337486,465,2200,-3000
+Dodge,Challenger,2015,Rear-Wheel Drive,Manual 6-spd,Midsize Cars,4,8,5.7,15.0631,23.4287,17.9468,18.304342,495,2450,-4250
+Dodge,Challenger,2015,Rear-Wheel Drive,Manual 6-spd,Midsize Cars,4,8,6.4,13.9868,22.5931,16.8804,19.381068,524,2600,-5000
+Dodge,Challenger,2015,Rear-Wheel Drive,Automatic 8-spd,Midsize Cars,4,8,6.4,14.9865,24.8169,18.2374,18.304342,486,2450,-4250
+Dodge,Challenger SRT8,2015,Rear-Wheel Drive,Automatic 8-spd,Midsize Cars,4,8,6.4,14.9865,24.8169,18.2374,18.304342,486,2450,-4250
+Dodge,Challenger SRT8,2015,Rear-Wheel Drive,Manual 6-spd,Midsize Cars,4,8,6.4,13.9868,22.5931,16.8804,19.381068,524,2600,-5000
+Dodge,Challenger SRT8,2015,Rear-Wheel Drive,Automatic 8-spd,Midsize Cars,3,8,6.2,13.0579,21.9887,15.9782,20.589638,556,2750,-5750
+Dodge,Challenger SRT8,2015,Rear-Wheel Drive,Manual 6-spd,Midsize Cars,3,8,6.2,12.9802,20.7106,15.6009,20.589638,566,2750,-5750
+Dodge,Charger,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.6,18.9925,30.6564,22.916,14.327048,386,1650,-250
+Dodge,Charger,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.6,18.9925,30.6564,22.916,14.327048,386,1650,-250
+Dodge,Charger,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,4,8,5.7,15.9033,25.2316,19.0771,17.337486,465,2200,-3000
+Dodge,Charger AWD,2015,All-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.6,18.32,27.2332,21.4842,15.689436,413,1800,-1000
+Dodge,Charger AWD,2015,All-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.6,18.32,27.2332,21.4842,15.689436,413,1800,-1000
+Dodge,Charger SRT8,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,4,8,6.4,14.9865,24.8169,18.2374,18.304342,486,2450,-4250
+Dodge,Charger SRT8,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,3,8,6.2,13.0579,21.9887,15.9782,20.589638,556,2750,-5750
+Dodge,Dart,2015,Front-Wheel Drive,Auto(AM6),Midsize Cars,8,4,1.4,27.1065,36.7006,30.7203,10.613442,288,1450,750
+Dodge,Dart,2015,Front-Wheel Drive,Automatic 6-spd,Midsize Cars,7,4,2,23.7911,33.6065,27.3911,12.19557,324,1400,1000
+Dodge,Dart,2015,Front-Wheel Drive,Automatic 6-spd,Midsize Cars,7,4,2.4,23.2484,34.8184,27.336,12.19557,324,1400,1000
+Dodge,Dart,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,2,25.014,36.299,29.0827,11.360558,305,1300,1500
+Dodge,Dart,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,2.4,22.4539,35.1912,26.8226,12.19557,330,1400,1000
+Dodge,Dart Aero,2015,Front-Wheel Drive,Auto(AM6),Midsize Cars,8,4,1.4,27.8786,39.7005,32.1924,10.283832,275,1400,1000
+Dodge,Dart Aero,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,8,4,1.4,27.7,40.7,32.3679,10.283832,275,1400,1000
+Dodge,Dart GT,2015,Front-Wheel Drive,Automatic 6-spd,Midsize Cars,6,4,2.4,22.2354,31.4389,25.609,12.657024,346,1450,750
+Dodge,Dart GT,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,2.4,22.9616,33.4044,26.7206,12.19557,332,1400,1000
+Dodge,Durango AWD,2015,4-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,4,6,3.6,16.8899,23.9152,19.4627,17.337486,458,2000,-2000
+Dodge,Durango AWD,2015,All-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,3,8,5.7,13.6005,21.8254,16.3779,20.589638,542,2600,-5000
+Dodge,Durango RWD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 2WD,5,6,3.6,17.8696,24.8511,20.4556,16.4805,435,1900,-1500
+Dodge,Durango RWD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 2WD,4,8,5.7,13.8324,22.5224,16.7387,19.381068,532,2450,-4250
+Dodge,Grand Caravan,2015,Front-Wheel Drive,Automatic 6-spd,Minivan - 2WD,5,6,3.6,17.1167,25.0939,19.974,16.4805,444,1900,-1500
+Dodge,Grand Caravan,2015,Front-Wheel Drive,Automatic 6-spd,Minivan - 2WD,5,6,3.6,17.1167,25.0939,19.974,16.4805,444,1900,-1500
+Dodge,Journey AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,4,6,3.6,16.2076,23.7067,18.8976,17.337486,470,2000,-2000
+Dodge,Journey FWD,2015,Front-Wheel Drive,Automatic 4-spd,Small Sport Utility Vehicle 2WD,5,4,2.4,18.5445,25.7164,21.2058,15.689436,419,1800,-1000
+Dodge,Journey FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,4,6,3.6,16.5112,25.0247,19.4959,17.337486,456,2000,-2000
+Dodge,Viper SRT,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,3,10,8.4,12.2001,21.0899,15.056,21.974,587,2950,-6750
+Ferrari,458 Italia,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,2,8,4.5,12.6858,17.3136,14.4216,23.534154,622,3150,-7750
+Ferrari,458 Italia,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,3,8,4.5,12.9143,17.3179,14.59,21.974,612,2950,-6750
+Ferrari,458 Speciale,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,2,8,4.5,12.6858,17.3136,14.4216,23.534154,622,3150,-7750
+Ferrari,458 Speciale,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,3,8,4.5,12.9143,17.3179,14.59,21.974,612,2950,-6750
+Ferrari,458 Speciale Spider,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,2,8,4.5,12.6858,17.3136,14.4216,23.534154,622,3150,-7750
+Ferrari,458 Speciale Spider,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,3,8,4.5,12.9143,17.3179,14.59,21.974,612,2950,-6750
+Ferrari,458 Spider,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,2,8,4.5,12.6858,17.3136,14.4216,23.534154,622,3150,-7750
+Ferrari,458 Spider,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,3,8,4.5,12.9143,17.3179,14.59,21.974,612,2950,-6750
+Ferrari,California T,2015,Rear-Wheel Drive,Auto(AM7),Minicompact Cars,4,8,3.9,15.6,22.9,18.2,18.304342,488,2450,-4250
+Ferrari,California T,2015,Rear-Wheel Drive,Auto(AM7),Minicompact Cars,4,8,3.9,16.0692,22.9362,18.5713,17.337486,479,2350,-3750
+Ferrari,F12,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,1,12,6.3,11.4504,15.8431,13.0827,25.336022,679,3400,-9000
+Ferrari,F12,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,1,12,6.3,11.6914,15.9502,13.288,25.336022,669,3400,-9000
+Ferrari,FF,2015,Part-time 4-Wheel Drive,Auto(AM7),Midsize Cars,1,12,6.3,10.7864,16.4467,12.763,25.336022,697,3400,-9000
+Ferrari,FF,2015,Part-time 4-Wheel Drive,Auto(AM7),Midsize Cars,1,12,6.3,11.0659,16.5531,13,25.336022,684,3400,-9000
+Fiat,500,2015,Front-Wheel Drive,Automatic 6-spd,Minicompact Cars,7,4,1.4,27.1065,34.1811,29.8905,10.987,295,1500,500
+Fiat,500,2015,Front-Wheel Drive,Automatic 6-spd,Minicompact Cars,7,4,1.4,24.4052,32.4232,27.4612,12.19557,322,1650,-250
+Fiat,500,2015,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,8,4,1.4,30.7652,39.5481,34.177,9.690534,260,1300,1500
+Fiat,500,2015,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,7,4,1.4,27.7386,33.8438,30.1893,10.987,295,1500,500
+Fiat,500 Abarth,2015,Front-Wheel Drive,Automatic 6-spd,Minicompact Cars,7,4,1.4,24.4052,32.4232,27.4612,12.19557,322,1650,-250
+Fiat,500 Abarth,2015,Front-Wheel Drive,Manual 5-spd,Minicompact Cars,7,4,1.4,27.7386,33.8438,30.1893,10.987,295,1500,500
+Fiat,500 L,2015,Front-Wheel Drive,Auto(AM6),Small Station Wagons,7,4,1.4,23.6858,32.8297,27.0799,12.19557,327,1650,-250
+Fiat,500 L,2015,Front-Wheel Drive,Manual 6-spd,Small Station Wagons,7,4,1.4,25.4066,32.8973,28.3071,11.75609,312,1600,0
+Fiat,500 L,2015,Front-Wheel Drive,Automatic 6-spd,Small Station Wagons,6,4,1.4,22.0898,30.2473,25.141,13.1844,351,1750,-750
+Fiat,500e,2015,Front-Wheel Drive,Automatic (A1),Minicompact Cars,10,NA,NA,122.4,108.1,115.974,0.174,0,550,5250
+Ford,C-MAX Energi Plug-in Hybrid,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,10,4,2,40.4488,36.2655,38.4528,4.878703541,129,1000,3750
+Ford,C-MAX Hybrid FWD,2015,Front-Wheel Drive,Automatic (variable gear ratios),Large Cars,9,4,2,41.9092,36.9352,39.5146,8.24025,225,950,3250
+Ford,Escape AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,6,4,1.6,22.1803,29.366,24.9248,13.1844,357,1550,250
+Ford,Escape AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,4,2,20.6489,27.9101,23.3869,14.327048,380,1650,-250
+Ford,Escape FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,6,4,1.6,22.6723,31.7447,26.0184,12.657024,342,1450,750
+Ford,Escape FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,6,4,2,21.5282,29.5115,24.5121,13.1844,362,1550,250
+Ford,Escape FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,6,4,2.5,21.5042,30.7556,24.8708,13.1844,357,1550,250
+Ford,Expedition 2WD,2015,Rear-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,4,6,3.5,15.7509,21.9651,18.0487,18.304342,491,2100,-2500
+Ford,Expedition 4WD,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,6,3.5,14.5107,19.875,16.5168,19.381068,537,2250,-3250
+Ford,Expedition EL 2WD,2015,Rear-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,4,6,3.5,14.7661,20.5103,16.8954,19.381068,525,2250,-3250
+Ford,Expedition EL 4WD,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,3,6,3.5,14.3449,19.6359,16.3243,20.589638,543,2400,-4000
+Ford,Explorer 2WD FFV,2015,Front-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,5,6,3.5,17.1167,24.1929,19.7111,16.4805,450,1900,-1500
+Ford,Explorer AWD,2015,All-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,6,3.5,16.5112,22.8022,18.8517,17.337486,470,2000,-2000
+Ford,Explorer AWD,2015,All-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,6,3.5,15.8233,22,18.3073,18.304342,494,2100,-2500
+Ford,Explorer AWD FFV,2015,All-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,6,3.5,16.5112,22.8022,18.8517,17.337486,470,2000,-2000
+Ford,Explorer FWD,2015,Front-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,5,4,2,19.7892,27.5727,22.6689,14.327048,392,1650,-250
+Ford,Explorer FWD,2015,Front-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,5,6,3.5,17.1167,24.1929,19.7111,16.4805,450,1900,-1500
+Ford,F150 Pickup 2WD,2015,Rear-Wheel Drive,Automatic (S6),Standard Pickup Trucks 2WD,5,6,2.7,19.3045,25.7414,21.7522,14.964294,407,1750,-750
+Ford,F150 Pickup 2WD,2015,Rear-Wheel Drive,Automatic (S6),Standard Pickup Trucks 2WD,5,6,3.5,17.2315,23.8174,19.6804,16.4805,451,1900,-1500
+Ford,F150 Pickup 2WD FFV,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 2WD,5,6,3.5,17.9071,24.5397,20.3867,16.4805,436,1900,-1500
+Ford,F150 Pickup 4WD,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Pickup Trucks 4WD,5,6,2.7,17.6417,22.6161,19.5797,16.4805,453,1900,-1500
+Ford,F150 Pickup 4WD,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Pickup Trucks 4WD,4,6,3.5,16.5701,22.6264,18.8393,17.337486,471,2000,-2000
+Ford,F150 Pickup 4WD FFV,2015,Part-time 4-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 4WD,4,6,3.5,17.0708,22.5218,19.1573,17.337486,463,2000,-2000
+Ford,F150 Pickup 4WD FFV,2015,Rear-Wheel Drive,Automatic (S6),Standard Pickup Trucks 2WD,4,8,5,15.2403,22.3138,17.7761,18.304342,499,2100,-2500
+Ford,F150 Pickup 4WD FFV,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Pickup Trucks 4WD,4,8,5,14.7551,20.9112,17.0083,19.381068,521,2250,-3250
+Ford,Fiesta FWD,2015,Front-Wheel Drive,Auto(AM6),Subcompact Cars,8,4,1.6,27.1769,36.7344,30.7807,10.613442,289,1250,1750
+Ford,Fiesta FWD,2015,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,8,4,1.6,27.5985,36.0643,30.8582,10.613442,288,1250,1750
+Ford,Fiesta SFE FWD,2015,Front-Wheel Drive,Manual 5-spd,Subcompact Cars,8,3,1,31.4039,42.7072,35.6498,9.141184,247,1050,2750
+Ford,Fiesta SFE FWD,2015,Front-Wheel Drive,Auto(AM6),Subcompact Cars,8,4,1.6,27.8788,38.204,31.7389,10.283832,281,1200,2000
+Ford,Fiesta ST FWD,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,26.3299,34.5855,29.4985,11.360558,301,1300,1500
+Ford,Flex AWD,2015,All-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,6,3.5,17.1167,23.22,19.4128,17.337486,458,2000,-2000
+Ford,Flex AWD,2015,All-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,6,3.5,16.0555,22.5234,18.4381,18.304342,482,2100,-2500
+Ford,Flex FWD,2015,Front-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,5,6,3.5,17.6916,24.8167,20.3165,16.4805,437,1900,-1500
+Ford,Focus Electric,2015,Front-Wheel Drive,Automatic (A1),Compact Cars,10,NA,NA,110.04,98.98,104.7718,0.192,0,600,5000
+Ford,Focus FWD,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,8,3,1,29.1335,39.601,33.0666,9.976196,268,1150,2250
+Ford,Focus FWD,2015,Front-Wheel Drive,Auto(AM6),Compact Cars,8,4,2,26.8764,39.7406,31.4589,10.613442,281,1250,1750
+Ford,Focus FWD,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,2,26.0817,37.9549,30.3548,10.987,293,1300,1500
+Ford,Focus FWD,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,7,4,2,25.6913,36.3995,29.6114,10.987,300,1300,1500
+Ford,Focus FWD,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2,23.1075,32.0842,26.4359,12.657024,336,1450,750
+Ford,Focus FWD FFV,2015,Front-Wheel Drive,Auto(AM6),Compact Cars,8,4,2,26.7541,40.2642,31,10.613442,285,1250,1750
+Ford,Focus FWD FFV,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,2,26.0818,37.955,30.3549,10.987,293,1300,1500
+Ford,Focus FWD FFV,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,7,4,2,25.6913,36.3995,29.6114,10.987,300,1300,1500
+Ford,Focus SFE FWD,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,8,3,1,30.3769,42.1804,34.7532,9.404872,255,1100,2500
+Ford,Fusion AWD,2015,All-Wheel Drive,Automatic (S6),Midsize Cars,6,4,2,21.7237,31.4033,25.2222,13.1844,354,1550,250
+Ford,Fusion Energi Plug-in Hybrid,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,10,4,2,40.4488,36.2655,38.4528,4.878703541,129,1000,3750
+Ford,Fusion FWD,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,4,2,22.4541,33.3709,26.3302,12.657024,338,1450,750
+Ford,Fusion FWD,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,4,2.5,22.294,33.6876,26.2962,12.657024,338,1450,750
+Ford,Fusion FWD,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,1.5,24.9068,37.2695,29.277,11.360558,303,1300,1500
+Ford,Fusion FWD,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,1.5,23.6811,36,28.2023,11.75609,316,1350,1250
+Ford,Fusion Hybrid FWD,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,9,4,2,43.8218,40.861,42.438,7.844718,209,900,3500
+Ford,Mustang,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,6,4,2.3,22.2357,31.405,25.599,12.657024,346,1450,750
+Ford,Mustang,2015,Rear-Wheel Drive,Automatic (S6),Subcompact Cars,6,4,2.3,21.4318,31.8805,25.1395,13.1844,353,1550,250
+Ford,Mustang,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,5,6,3.7,17.4185,28.4009,21.088,15.689436,420,1800,-1000
+Ford,Mustang,2015,Rear-Wheel Drive,Automatic 6-spd,Subcompact Cars,5,6,3.7,18.6804,27.681,21.8822,14.964294,408,1750,-750
+Ford,Mustang,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,4,8,5,15.4692,25.3382,18.7567,17.337486,472,2000,-2000
+Ford,Mustang,2015,Rear-Wheel Drive,Automatic 6-spd,Subcompact Cars,4,8,5,15.8267,24.7818,18.9001,17.337486,470,2000,-2000
+Ford,Mustang Convertible,2015,Rear-Wheel Drive,Automatic (S6),Subcompact Cars,6,4,2.3,20.3478,29.6074,23.6805,13.73375,375,1600,0
+Ford,Mustang Convertible,2015,Rear-Wheel Drive,Automatic (S6),Subcompact Cars,4,8,5,15.2697,23.5096,18.129,18.304342,489,2100,-2500
+Ford,Special Service Police FWD,2015,Front-Wheel Drive,Automatic 6-spd,Large Cars,6,4,2,20.2543,29.7013,23.6375,13.73375,374,1600,0
+Ford,Taurus AWD,2015,All-Wheel Drive,Automatic (S6),Large Cars,5,6,3.5,16.9656,24.8862,19.8016,16.4805,449,1900,-1500
+Ford,Taurus AWD,2015,All-Wheel Drive,Automatic (S6),Large Cars,5,6,3.5,18.0952,25.7855,20.9001,15.689436,425,1800,-1000
+Ford,Taurus AWD FFV,2015,All-Wheel Drive,Automatic (S6),Large Cars,5,6,3.5,18.0952,25.7855,20.9001,15.689436,425,1800,-1000
+Ford,Taurus FWD,2015,Front-Wheel Drive,Automatic (S6),Large Cars,6,4,2,22.3814,32,26.1802,12.657024,342,1450,750
+Ford,Taurus FWD,2015,Front-Wheel Drive,Automatic (S6),Large Cars,5,6,3.5,19.3139,28.6231,22.6252,14.327048,393,1650,-250
+Ford,Taurus FWD FFV,2015,Front-Wheel Drive,Automatic (S6),Large Cars,5,6,3.5,19.314,28.6232,22.6253,14.327048,393,1650,-250
+Ford,Transit Connect Van 2WD,2015,Front-Wheel Drive,Automatic (S6),Special Purpose Vehicle 2WD,6,4,2.5,20.7706,28.538,23.6697,13.73375,374,1600,0
+Ford,Transit Connect Van 2WD,2015,Front-Wheel Drive,Automatic (S6),Special Purpose Vehicle 2WD,6,4,1.6,22.1435,29.855,25.0559,13.1844,354,1550,250
+Ford,Transit Connect Wagon FWD,2015,Front-Wheel Drive,Automatic (S6),Special Purpose Vehicle 2WD,5,4,2.5,20.1104,28,23.0306,14.327048,385,1650,-250
+Ford,Transit Connect Wagon FWD,2015,Front-Wheel Drive,Automatic (S6),Special Purpose Vehicle 2WD,6,4,1.6,22.0712,29.8935,25.017,13.1844,354,1550,250
+Ford,Transit Connect Wagon LWB FWD,2015,Front-Wheel Drive,Automatic (S6),Special Purpose Vehicle 2WD,5,4,2.5,19.6619,27.7145,22.6194,14.327048,391,1650,-250
+Ford,Transit T150 Wagon,2015,Rear-Wheel Drive,Automatic (S6),"Vans, Passenger Type",3,6,3.5,14.1791,18.8281,15.9515,20.589638,556,2400,-4000
+Ford,Transit T150 Wagon FFV,2015,Rear-Wheel Drive,Automatic (S6),"Vans, Passenger Type",3,6,3.7,14.1342,18.596,15.845,20.589638,559,2400,-4000
+GMC,Acadia AWD,2015,All-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,6,3.6,16.1315,23.1504,18.6801,17.337486,476,2000,-2000
+GMC,Acadia FWD,2015,Front-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,6,3.6,16.5112,23.7068,19.1232,17.337486,465,2000,-2000
+GMC,Canyon 2WD,2015,Rear-Wheel Drive,Manual 6-spd,Small Pickup Trucks 2WD,5,4,2.5,19.216,25.7164,21.6823,14.964294,407,1750,-750
+GMC,Canyon 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Small Pickup Trucks 2WD,5,4,2.5,19.8102,26.6135,22.3853,14.964294,394,1750,-750
+GMC,Canyon 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Small Pickup Trucks 2WD,5,6,3.6,18.0952,25.5781,20.8386,15.689436,425,1800,-1000
+GMC,Canyon 4WD,2015,4-Wheel Drive,Automatic 6-spd,Small Pickup Trucks 4WD,5,4,2.5,18.5445,24.6783,20.8799,15.689436,422,1800,-1000
+GMC,Canyon 4WD,2015,4-Wheel Drive,Automatic 6-spd,Small Pickup Trucks 4WD,5,6,3.6,17.4185,24.0541,19.8873,16.4805,445,1900,-1500
+GMC,Canyon Cab Chassis 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 2WD,3,6,3.6,14.8331,17.4668,15.9128,20.589638,556,2400,-4000
+GMC,Savana 2500 2WD (Passenger),2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,6,10.7097,15.7651,12.5157,25.336022,710,2950,-6750
+GMC,Savana 2500 2WD (Passenger),2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,4.8,11.1823,16.546,13.0921,25.336022,675,2950,-6750
+GMC,Savana 2500 2WD (Passenger),2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,6,10.7097,15.7651,12.5157,25.336022,710,2950,-6750
+GMC,Savana 2500 2WD Conversion (cargo),2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Cargo Type",1,8,6,10.1563,15.0536,11.8981,27.4675,747,3200,-8000
+GMC,Savana 2500 2WD Conversion (cargo),2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Cargo Type",1,8,6,10.2355,15.2672,12.0179,27.4675,740,3200,-8000
+GMC,Savana 3500 2WD (Passenger),2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,6,10.5563,15.5689,12.3449,27.4675,720,3200,-8000
+GMC,Savana 3500 2WD (Passenger),2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,4.8,11.1618,16.5247,13.0707,25.336022,676,2950,-6750
+GMC,Savana 3500 2WD (Passenger),2015,Rear-Wheel Drive,Automatic 6-spd,"Vans, Passenger Type",1,8,6,10.6113,15.6629,12.4128,27.4675,716,3200,-8000
+GMC,Sierra C15 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 2WD,5,6,4.3,17.5734,23.7118,19.8905,16.4805,447,1900,-1500
+GMC,Sierra C15 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 2WD,4,8,5.3,16.1091,22.848,18.5744,17.337486,478,2000,-2000
+GMC,Sierra C15 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 2WD,4,8,5.3,16.1116,22.8507,18.577,17.337486,478,2000,-2000
+GMC,Sierra C15 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 2WD,4,8,6.2,14.86,21,17.2617,19.381068,522,2250,-3250
+GMC,Sierra C15 Cab Chassis 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 2WD,4,6,4.3,16,21,18,18.304342,494,2100,-2500
+GMC,Sierra C15 Cab Chassis 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 2WD,4,8,5.3,15,20,17,19.381068,523,2250,-3250
+GMC,Sierra C15 Cab Chassis 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 2WD,4,8,5.3,15,20,17,19.381068,523,2250,-3250
+GMC,Sierra K15 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 4WD,4,6,4.3,16.6398,22.1953,18.7519,17.337486,474,2000,-2000
+GMC,Sierra K15 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 4WD,4,8,5.3,15.8224,22.0493,18.1259,18.304342,490,2100,-2500
+GMC,Sierra K15 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 4WD,4,8,5.3,15.7984,22.0331,18.1037,18.304342,491,2100,-2500
+GMC,Sierra K15 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 4WD,4,8,6.2,14.7564,21.126,17.0728,19.381068,521,2250,-3250
+GMC,Sierra K15 Cab Chassis 4WD,2015,4-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 4WD,4,6,4.3,16,20,18,18.304342,494,2100,-2500
+GMC,Sierra K15 Cab Chassis 4WD,2015,4-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 4WD,4,8,5.3,15,19,17,19.381068,523,2250,-3250
+GMC,Sierra K15 Cab Chassis 4WD,2015,4-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 4WD,4,8,5.3,15,19,17,19.381068,523,2250,-3250
+GMC,Terrain AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,20.4354,28.6736,23.4698,14.327048,379,1650,-250
+GMC,Terrain AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,4,6,3.6,15.9033,23,18.6686,17.337486,468,2000,-2000
+GMC,Terrain FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,22.3062,32.0502,25.8416,12.657024,344,1450,750
+GMC,Terrain FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,22.3062,32.0502,25.8416,12.657024,344,1450,750
+GMC,Terrain FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,5,6,3.6,16.5871,24,19.5158,16.4805,444,1900,-1500
+GMC,Yukon C1500 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,6.2,14.6028,20.8459,16.8774,19.381068,527,2250,-3250
+GMC,Yukon C1500 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,5.3,15.8271,23.22,18.4739,18.304342,481,2100,-2500
+GMC,Yukon C1500 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,5.3,15.8271,23.22,18.4739,18.304342,481,2100,-2500
+GMC,Yukon C1500 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 2WD,4,8,6.2,14.9098,21.6856,17.3492,19.381068,511,2250,-3250
+GMC,Yukon C1500 XL 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,6.2,14.6028,20.8459,16.8774,19.381068,527,2250,-3250
+GMC,Yukon C1500 XL 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,5.3,15.8271,23.22,18.4739,18.304342,481,2100,-2500
+GMC,Yukon C1500 XL 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 2WD,4,8,5.3,15.8271,23.22,18.4739,18.304342,481,2100,-2500
+GMC,Yukon C1500 XL 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 2WD,4,8,6.2,14.9098,21.6856,17.3492,19.381068,511,2250,-3250
+GMC,Yukon K1500 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,3,8,6.2,14,20.6356,16,20.589638,555,2400,-4000
+GMC,Yukon K1500 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,8,5.3,15.522,21.8254,17.8407,18.304342,498,2100,-2500
+GMC,Yukon K1500 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,8,5.3,15.522,21.8254,17.8407,18.304342,498,2100,-2500
+GMC,Yukon K1500 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,4,8,6.2,14.7564,21.126,17.0728,19.381068,521,2250,-3250
+GMC,Yukon K1500 XL 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,3,8,6.2,13.9865,20.0736,16.1967,20.589638,548,2400,-4000
+GMC,Yukon K1500 XL 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,8,5.3,15.2927,21.7555,17.6525,18.304342,503,2100,-2500
+GMC,Yukon K1500 XL 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Sport Utility Vehicle 4WD,4,8,5.3,15.2927,21.7555,17.6525,18.304342,503,2100,-2500
+GMC,Yukon K1500 XL 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,3,8,6.2,14.3721,20.0743,16.4785,20.589638,537,2400,-4000
+Honda,Accord,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,2.4,23.5815,34.4103,27.4719,12.19557,324,1400,1000
+Honda,Accord,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,8,4,2.4,26.9209,36.452,30.5109,10.613442,292,1250,1750
+Honda,Accord,2015,Front-Wheel Drive,Auto(AV-S7),Midsize Cars,7,4,2.4,26.1067,34.9592,29.4642,11.360558,302,1300,1500
+Honda,Accord,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,5,6,3.5,18.1326,28.0231,21.5562,14.964294,413,1750,-750
+Honda,Accord,2015,Front-Wheel Drive,Automatic 6-spd,Midsize Cars,6,6,3.5,21.2847,34.3964,25.6918,12.657024,346,1450,750
+Honda,Accord,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,6,3.5,20.5858,32.0491,24.5348,13.1844,362,1550,250
+Honda,Accord Hybrid,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,10,4,2,49.8291,44.6276,47.3459,7.009706,188,800,4000
+Honda,Civic,2015,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,8,4,1.8,29.722,38.7084,33.1893,9.976196,267,1150,2250
+Honda,Civic,2015,Front-Wheel Drive,Auto(AV-S7),Compact Cars,8,4,1.8,29.3509,38.1817,32.7605,9.976196,271,1150,2250
+Honda,Civic,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,8,4,1.8,27.8438,36.0976,31.0373,10.613442,285,1250,1750
+Honda,Civic,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2.4,21.9,30.9,25.2034,13.1844,352,1750,-750
+Honda,Civic HF,2015,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,8,4,1.8,31.1849,41.3534,35.0649,9.404872,253,1100,2500
+Honda,Civic Hybrid,2015,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,10,4,1.5,44.3164,46.6945,45.3559,7.317342,196,850,3750
+Honda,Civic Natural Gas,2015,Front-Wheel Drive,Automatic 5-spd,Compact Cars,8,4,1.8,26.6826,37.9706,30.8034,0.059892,218,1050,2750
+Honda,Crosstour 2WD,2015,Front-Wheel Drive,Automatic 5-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,21.7977,30.8607,25.117,13.1844,354,1550,250
+Honda,Crosstour 2WD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,6,3.5,19.8102,29.7696,23.3211,14.327048,382,1650,-250
+Honda,Crosstour 4WD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3.5,18.7687,27.7832,21.9776,14.964294,405,1750,-750
+Honda,CR-V 2WD,2015,Front-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 2WD,7,4,2.4,26.7183,33.6825,29.4593,11.360558,302,1300,1500
+Honda,CR-V 4WD,2015,All-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 4WD,7,4,2.4,25.8309,32.5763,28.4851,11.75609,313,1350,1250
+Honda,CR-Z,2015,Front-Wheel Drive,Auto(AV-S7),Two Seaters,9,4,1.5,35.9031,39.003,37.2348,8.89947,238,1050,2750
+Honda,CR-Z,2015,Front-Wheel Drive,Manual 6-spd,Two Seaters,8,4,1.5,31.1312,38.3373,34.0077,9.690534,261,1100,2500
+Honda,Fit,2015,Front-Wheel Drive,Auto(AV-S7),Small Station Wagons,8,4,1.5,32.289,38,34.8179,9.404872,256,1100,2500
+Honda,Fit,2015,Front-Wheel Drive,Manual 6-spd,Small Station Wagons,8,4,1.5,28.9711,36.8297,32.0484,10.283832,277,1200,2000
+Honda,Fit,2015,Front-Wheel Drive,Automatic (variable gear ratios),Small Station Wagons,8,4,1.5,33,41.0912,36,9.141184,247,1050,2750
+Honda,Odyssey,2015,Front-Wheel Drive,Automatic 6-spd,Minivan - 2WD,5,6,3.5,19.067,27.7145,22.1815,14.964294,402,1750,-750
+Honda,Pilot 2WD,2015,Front-Wheel Drive,Automatic 5-spd,Small Sport Utility Vehicle 2WD,5,6,3.5,17.7423,25.3707,20.5186,15.689436,432,1800,-1000
+Honda,Pilot 4WD,2015,All-Wheel Drive,Automatic 5-spd,Small Sport Utility Vehicle 4WD,5,6,3.5,17.2517,24.3597,19.8594,16.4805,446,1900,-1500
+Hyundai,Accent,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.6,26.417,37.4455,30.4531,10.987,291,1300,1500
+Hyundai,Accent,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,8,4,1.6,27.3877,37.6852,31.2275,10.613442,280,1250,1750
+Hyundai,Azera,2015,Front-Wheel Drive,Automatic (S6),Large Cars,5,6,3.3,19.6619,28.8121,22.9403,14.327048,389,1650,-250
+Hyundai,Azera Limited,2015,Front-Wheel Drive,Automatic (S6),Large Cars,5,6,3.3,18.918,28.2637,22.225,14.964294,403,1750,-750
+Hyundai,Elantra,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2,24.2011,34.9358,28.0844,11.75609,314,1350,1250
+Hyundai,Elantra,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,2,24.118,33.6676,27.6468,11.75609,319,1350,1250
+Hyundai,Elantra,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,8,4,1.8,27.6991,37.9001,31.5163,10.283832,281,1200,2000
+Hyundai,Elantra,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,8,4,1.8,26.6835,37.3364,30.6142,10.613442,286,1250,1750
+Hyundai,Elantra Coupe,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2,23.902,34.4901,27.7332,11.75609,318,1350,1250
+Hyundai,Elantra Coupe,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,2,23.5414,33.5515,27.1922,12.19557,324,1400,1000
+Hyundai,Elantra GT,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2,24.1385,32.7457,27.3766,12.19557,324,1400,1000
+Hyundai,Elantra GT,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,2,24.0088,33.533,27.5271,11.75609,323,1350,1250
+Hyundai,Elantra Limited,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,8,4,1.8,27.1486,36.7324,30.7601,10.613442,290,1250,1750
+Hyundai,Equus,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,4,8,5,14.9098,23.0111,17.7166,18.304342,502,2450,-4250
+Hyundai,Genesis AWD,2015,All-Wheel Drive,Automatic 8-spd,Large Cars,4,6,3.8,16.3595,25.0247,19.3791,17.337486,459,2000,-2000
+Hyundai,Genesis Coupe,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,4,6,3.8,16.1238,24.6348,19.092,17.337486,458,2350,-3750
+Hyundai,Genesis Coupe,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,4,6,3.8,16.3512,23.7288,19.0111,17.337486,460,2350,-3750
+Hyundai,Genesis RWD,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.8,18.0952,28.538,21.6622,14.964294,409,1750,-750
+Hyundai,Genesis RWD,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,4,8,5,14.7564,23.0807,17.6153,18.304342,503,2450,-4250
+Hyundai,Santa Fe AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3.3,17.6706,23.5881,19.9193,16.4805,445,1900,-1500
+Hyundai,Santa Fe FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,6,3.3,17.9541,24.8196,20.5067,15.689436,432,1800,-1000
+Hyundai,Santa Fe Sport AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,4,2.4,18.8433,25.1631,21.2444,15.689436,413,1800,-1000
+Hyundai,Santa Fe Sport AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,4,2,18.2167,24.252,20.514,15.689436,427,1800,-1000
+Hyundai,Santa Fe Sport FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,4,2.4,20.1804,27.0268,22.7768,14.327048,385,1650,-250
+Hyundai,Santa Fe Sport FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,4,2,19.067,26.5446,21.8349,14.964294,401,1750,-750
+Hyundai,Santa Fe Sport Ultimate FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,4,2,19.2904,26.2687,21.9095,14.964294,408,1750,-750
+Hyundai,Santa Fe Ultimate AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,4,6,3.3,16.8899,21.702,18.762,17.337486,476,2000,-2000
+Hyundai,Santa Fe Ultimate FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,6,3.3,17.3431,23.0848,19.5288,16.4805,457,1900,-1500
+Hyundai,Sonata,2015,Front-Wheel Drive,Automatic (S6),Large Cars,7,4,2.4,24.5606,36.5919,28.8256,11.360558,308,1300,1500
+Hyundai,Sonata,2015,Front-Wheel Drive,Automatic (S6),Large Cars,6,4,2,22.5269,31.6768,25.8925,12.657024,344,1450,750
+Hyundai,Sonata,2015,Front-Wheel Drive,Auto(AM7),Large Cars,8,4,1.6,27.9488,37.6036,31.5998,10.283832,282,1200,2000
+Hyundai,Sonata Hybrid,2015,Front-Wheel Drive,Auto(AM6),Midsize Cars,9,4,2.4,35.9031,39.7338,37.5313,8.657756,237,1000,3000
+Hyundai,Sonata Hybrid Limited,2015,Front-Wheel Drive,Auto(AM6),Midsize Cars,9,4,2.4,35.7048,39.601,37.3588,8.89947,239,1050,2750
+Hyundai,Sonata Limited,2015,Front-Wheel Drive,Automatic (S6),Large Cars,6,4,2,21.2117,30.7245,24.6455,13.1844,362,1550,250
+Hyundai,Sonata Sport Limited,2015,Front-Wheel Drive,Automatic (S6),Large Cars,7,4,2.4,23.7755,34.5991,27.6708,11.75609,323,1350,1250
+Hyundai,Tucson 2WD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,20.6427,28.3062,23.5065,13.73375,373,1600,0
+Hyundai,Tucson 2WD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,6,4,2,22.9626,28.6751,25.2238,13.1844,348,1550,250
+Hyundai,Tucson AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,19.8279,25.2701,21.9557,14.964294,401,1750,-750
+Hyundai,Tucson AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2,20.697,25.3015,22.5431,14.327048,393,1650,-250
+Hyundai,Veloster,2015,Front-Wheel Drive,Auto(AM6),Compact Cars,7,4,1.6,27.3037,35.5534,30.4871,10.987,288,1300,1500
+Hyundai,Veloster,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,26.1314,35.0261,29.5028,10.987,297,1300,1500
+Hyundai,Veloster,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.6,23.7579,31.133,26.5927,12.19557,330,1400,1000
+Hyundai,Veloster,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,24.1899,33.3709,27.6078,11.75609,317,1350,1250
+Infiniti,Q40,2015,Rear-Wheel Drive,Automatic (S7),Midsize Cars,5,6,3.7,18.7513,26.8544,21.6975,14.964294,410,2000,-2000
+Infiniti,Q40 AWD,2015,All-Wheel Drive,Automatic (S7),Midsize Cars,5,6,3.7,17.6894,25.1747,20.4219,16.4805,436,2200,-3000
+Infiniti,Q50,2015,Rear-Wheel Drive,Automatic (S7),Midsize Cars,5,6,3.7,19.6314,29.2347,23.0367,14.327048,386,1900,-1500
+Infiniti,Q50 AWD,2015,All-Wheel Drive,Automatic (S7),Midsize Cars,5,6,3.7,18.6803,27.1801,21.7396,14.964294,408,2000,-2000
+Infiniti,Q50 Hybrid,2015,Rear-Wheel Drive,Automatic (S7),Compact Cars,8,6,3.5,28.9917,36,31,10.613442,286,1450,750
+Infiniti,Q50 Hybrid AWD,2015,All-Wheel Drive,Automatic (S7),Compact Cars,7,6,3.5,27.9099,35.3257,30,10.987,296,1500,500
+Infiniti,Q50a,2015,Rear-Wheel Drive,Automatic (S7),Midsize Cars,5,6,3.7,19.809,29.7012,23.3013,14.327048,382,1900,-1500
+Infiniti,Q50a AWD,2015,All-Wheel Drive,Automatic (S7),Midsize Cars,5,6,3.7,18.694,27.3018,21.7848,14.964294,409,2000,-2000
+Infiniti,Q50S Hybrid,2015,Rear-Wheel Drive,Automatic (S7),Compact Cars,7,6,3.5,28.1584,33.8766,30.4731,10.987,292,1500,500
+Infiniti,Q50S Hybrid AWD,2015,All-Wheel Drive,Automatic (S7),Compact Cars,7,6,3.5,26.8586,30.9963,28,11.75609,317,1600,0
+Infiniti,Q60,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,5,6,3.7,17.3431,25.3015,20.2027,16.4805,440,2200,-3000
+Infiniti,Q60,2015,Rear-Wheel Drive,Automatic (S7),Subcompact Cars,5,6,3.7,18.7513,26.8544,21.6975,14.964294,410,2000,-2000
+Infiniti,Q60 AWD,2015,All-Wheel Drive,Automatic (S7),Subcompact Cars,5,6,3.7,17.6894,25.1747,20.4219,16.4805,436,2200,-3000
+Infiniti,Q60 Convertible,2015,Rear-Wheel Drive,Automatic (S7),Subcompact Cars,5,6,3.7,17.5204,25.549,20.406,16.4805,436,2200,-3000
+Infiniti,Q60 Convertible,2015,Rear-Wheel Drive,Manual 6-spd,Subcompact Cars,4,6,3.7,16.4354,24.0541,19.1673,17.337486,464,2350,-3750
+Infiniti,Q70,2015,Rear-Wheel Drive,Automatic (S7),Midsize Cars,5,6,3.7,17.933,25.8528,20.8004,15.689436,428,2100,-2500
+Infiniti,Q70,2015,Rear-Wheel Drive,Automatic (S7),Midsize Cars,4,8,5.6,16.3595,24.3659,19.1983,17.337486,463,2350,-3750
+Infiniti,Q70 AWD,2015,All-Wheel Drive,Automatic (S7),Midsize Cars,5,6,3.7,17.6917,24,20.2333,16.4805,443,2200,-3000
+Infiniti,Q70 AWD,2015,All-Wheel Drive,Automatic (S7),Midsize Cars,4,8,5.6,15.642,22.9049,18.2454,18.304342,487,2450,-4250
+Infiniti,Q70 Hybrid,2015,Rear-Wheel Drive,Automatic (S7),Midsize Cars,8,6,3.5,29.3057,33.9113,31.2133,10.613442,285,1450,750
+Infiniti,QX50,2015,Rear-Wheel Drive,Automatic (S7),Small Station Wagons,5,6,3.7,17,24.9555,20.3238,16.4805,449,2200,-3000
+Infiniti,QX50 AWD,2015,All-Wheel Drive,Automatic (S7),Small Station Wagons,5,6,3.7,17.2653,24.3963,19.8802,16.4805,447,2200,-3000
+Infiniti,QX60 AWD,2015,All-Wheel Drive,Auto(AV-S7),Small Sport Utility Vehicle 4WD,5,6,3.5,19,26,22,14.964294,404,2000,-2000
+Infiniti,QX60 FWD,2015,Front-Wheel Drive,Auto(AV-S7),Small Sport Utility Vehicle 2WD,5,6,3.5,20.623,27,23.3174,14.327048,385,1900,-1500
+Infiniti,QX60 Hybrid AWD,2015,All-Wheel Drive,Auto(AV-S7),Standard Sport Utility Vehicle 4WD,6,4,2.5,25,27.9116,26,12.657024,342,1450,750
+Infiniti,QX60 Hybrid FWD,2015,Front-Wheel Drive,Auto(AV-S7),Standard Sport Utility Vehicle 2WD,6,4,2.5,26,28,26,12.657024,342,1450,750
+Infiniti,QX70 AWD,2015,All-Wheel Drive,Automatic (S7),Small Sport Utility Vehicle 4WD,4,6,3.7,16.1487,21.884,18.3078,18.304342,486,2450,-4250
+Infiniti,QX70 RWD,2015,Rear-Wheel Drive,Automatic (S7),Small Sport Utility Vehicle 2WD,4,6,3.7,16.9656,23.7762,19.4761,17.337486,457,2350,-3750
+Infiniti,QX80 2WD,2015,Rear-Wheel Drive,Automatic (S7),Standard Sport Utility Vehicle 2WD,3,8,5.6,13.9868,20.3414,16.2747,20.589638,547,2750,-5750
+Infiniti,QX80 4WD,2015,4-Wheel Drive,Automatic (S7),Standard Sport Utility Vehicle 4WD,3,8,5.6,13.9096,19.67,16.0209,20.589638,556,2750,-5750
+Jaguar,F-Type Convertible,2015,Rear-Wheel Drive,Automatic (S8),Two Seaters,5,6,3,19.8843,27.9206,22.843,14.327048,389,1900,-1500
+Jaguar,F-Type Coupe,2015,Rear-Wheel Drive,Automatic (S8),Two Seaters,5,6,3,19.8843,27.9206,22.843,14.327048,389,1900,-1500
+Jaguar,F-Type R Coupe,2015,Rear-Wheel Drive,Automatic (S8),Two Seaters,4,8,5,15.6746,23.1504,18.3396,18.304342,487,2450,-4250
+Jaguar,F-Type S Convertible,2015,Rear-Wheel Drive,Automatic (S8),Two Seaters,5,6,3,19.2904,27.1644,22.1841,14.964294,403,2000,-2000
+Jaguar,F-Type S Coupe,2015,Rear-Wheel Drive,Automatic (S8),Two Seaters,5,6,3,19.2904,27.1644,22.1841,14.964294,403,2000,-2000
+Jaguar,F-Type V8 S Convertible,2015,Rear-Wheel Drive,Automatic (S8),Two Seaters,4,8,5,15.6746,23.1504,18.3396,18.304342,487,2450,-4250
+Jaguar,XF,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,5,4,2,18.9532,29.9574,22.7545,14.327048,387,1900,-1500
+Jaguar,XF,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,5,6,3,18.1702,27.7145,21.5024,14.964294,413,2000,-2000
+Jaguar,XF,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,4,8,5,14.9865,22.9415,17.7573,18.304342,500,2450,-4250
+Jaguar,XF AWD,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,5,6,3,16.8899,26.8891,20.2843,16.4805,437,2200,-3000
+Jaguar,XF FFV,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,4,8,5,14.9865,22.9415,17.7573,18.304342,500,2450,-4250
+Jaguar,XJ,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,4,8,5,14.8331,23.0111,17.657,18.304342,504,2450,-4250
+Jaguar,XJ AWD,2015,All-Wheel Drive,Automatic (S8),Large Cars,4,6,3,16.0555,24.4704,18.9949,17.337486,468,2350,-3750
+Jaguar,XJ FFV,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,5,6,3,17.9451,27.0956,21.1609,15.689436,421,2100,-2500
+Jaguar,XJ FFV,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,4,8,5,14.8331,23.0111,17.657,18.304342,504,2450,-4250
+Jaguar,XJL,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,4,8,5,14.8331,23.0111,17.657,18.304342,504,2450,-4250
+Jaguar,XJL AWD,2015,All-Wheel Drive,Automatic (S8),Large Cars,4,6,3,15.9794,24.401,18.9175,17.337486,471,2350,-3750
+Jaguar,XJL FFV,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,5,6,3,16.5871,27.0956,20.0939,16.4805,442,2200,-3000
+Jaguar,XJL FFV,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,4,8,5,14.8331,23.0111,17.657,18.304342,504,2450,-4250
+Jaguar,XK,2015,Rear-Wheel Drive,Automatic (S6),Minicompact Cars,4,8,5,15.8721,23.6373,18.5914,17.337486,474,2350,-3750
+Jaguar,XK,2015,Rear-Wheel Drive,Automatic (S6),Minicompact Cars,4,8,5,15.1397,21.6856,17.5194,18.304342,508,2450,-4250
+Jaguar,XK Convertible,2015,Rear-Wheel Drive,Automatic (S6),Minicompact Cars,4,8,5,15.5983,22.2443,18.0212,18.304342,490,2450,-4250
+Jaguar,XK Convertible,2015,Rear-Wheel Drive,Automatic (S6),Minicompact Cars,4,8,5,14.8331,21.6856,17.292,19.381068,515,2600,-5000
+Jeep,Cherokee 4WD,2015,All-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 4WD,6,4,2.4,20.8431,28.2635,23.6355,13.73375,376,1600,0
+Jeep,Cherokee 4WD,2015,All-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 4WD,6,4,2.4,20.8431,28.2635,23.6355,13.73375,376,1600,0
+Jeep,Cherokee 4WD,2015,All-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 4WD,5,6,3.2,20.2543,27.6797,23.035,14.327048,385,1650,-250
+Jeep,Cherokee 4WD Active Drive II,2015,4-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,20.697,27.233,23.2029,14.327048,383,1650,-250
+Jeep,Cherokee 4WD Active Drive II,2015,4-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 4WD,5,6,3.2,18.7116,26.348,21.518,14.964294,414,1750,-750
+Jeep,Cherokee FWD,2015,Front-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,21.505,30.5883,24.8219,13.1844,359,1550,250
+Jeep,Cherokee FWD,2015,Front-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,21.505,30.5883,24.8219,13.1844,359,1550,250
+Jeep,Cherokee FWD,2015,Front-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 2WD,6,6,3.2,20.6601,28.9483,23.7156,13.73375,375,1600,0
+Jeep,Cherokee Trailhawk 4WD,2015,4-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,19.4391,25.1281,21.6442,14.964294,410,1750,-750
+Jeep,Cherokee Trailhawk 4WD,2015,4-Wheel Drive,Automatic 9-spd,Small Sport Utility Vehicle 4WD,5,6,3.2,19.216,26.1305,21.8135,14.964294,407,1750,-750
+Jeep,Compass 4WD,2015,4-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 4WD,5,4,2.4,20.0324,22.9415,21.2447,15.689436,416,1800,-1000
+Jeep,Compass 4WD,2015,4-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,20.6233,26.8891,23.0392,14.327048,385,1650,-250
+Jeep,Compass 4WD,2015,4-Wheel Drive,Manual 5-spd,Small Sport Utility Vehicle 4WD,6,4,2.4,22.1628,27.2332,24.1895,13.73375,367,1600,0
+Jeep,Compass FWD,2015,Front-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 2WD,6,4,2,21.9439,26.6824,23.8499,13.73375,373,1600,0
+Jeep,Compass FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,5,4,2.4,20.9178,27.5083,23.4455,14.327048,379,1650,-250
+Jeep,Compass FWD,2015,Front-Wheel Drive,Manual 5-spd,Small Sport Utility Vehicle 2WD,6,4,2,22.8165,30.1238,25.6123,12.657024,344,1450,750
+Jeep,Compass FWD,2015,Front-Wheel Drive,Manual 5-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,23.0351,28.538,25.2238,13.1844,352,1550,250
+Jeep,Grand Cherokee 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 2WD,5,6,3.6,17.4185,24.7476,20.0968,16.4805,443,1900,-1500
+Jeep,Grand Cherokee 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 2WD,6,6,3,22.0528,30.2473,25.1146,15.2874,405,2100,-2500
+Jeep,Grand Cherokee 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 2WD,4,8,5.7,14.141,22.0349,16.8588,19.381068,527,2450,-4250
+Jeep,Grand Cherokee 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,4,6,3.6,16.8899,23.9152,19.4627,17.337486,458,2000,-2000
+Jeep,Grand Cherokee 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,6,6,3,21.0275,28.0579,23.6998,15.924375,429,2200,-3000
+Jeep,Grand Cherokee 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,3,8,5.7,13.6005,20.1445,15.929,20.589638,560,2600,-5000
+Jeep,Grand Cherokee SRT8 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Sport Utility Vehicle 4WD,3,8,6.4,12.747,18.6672,14.869,21.974,595,2950,-6750
+Jeep,Patriot 4WD,2015,4-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 4WD,5,4,2.4,20.0324,22.9415,21.2447,15.689436,416,1800,-1000
+Jeep,Patriot 4WD,2015,4-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,20.6233,26.8891,23.0392,14.327048,385,1650,-250
+Jeep,Patriot 4WD,2015,4-Wheel Drive,Manual 5-spd,Small Sport Utility Vehicle 4WD,6,4,2.4,22.1628,27.2332,24.1895,13.73375,367,1600,0
+Jeep,Patriot FWD,2015,Front-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 2WD,6,4,2,21.9439,26.6824,23.8499,13.73375,373,1600,0
+Jeep,Patriot FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,5,4,2.4,20.9178,27.5083,23.4455,14.327048,379,1650,-250
+Jeep,Patriot FWD,2015,Front-Wheel Drive,Manual 5-spd,Small Sport Utility Vehicle 2WD,6,4,2,22.8165,30.1238,25.6123,12.657024,344,1450,750
+Jeep,Patriot FWD,2015,Front-Wheel Drive,Manual 5-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,23.0351,28.538,25.2238,13.1844,352,1550,250
+Jeep,Wrangler 4WD,2015,4-Wheel Drive,Automatic 5-spd,Small Sport Utility Vehicle 4WD,4,6,3.6,16.6628,21.126,18.4133,18.304342,482,2100,-2500
+Jeep,Wrangler 4WD,2015,4-Wheel Drive,Manual 6-spd,Small Sport Utility Vehicle 4WD,4,6,3.6,16.5112,21.4759,18.4283,18.304342,481,2100,-2500
+Jeep,Wrangler Unlimited 4WD,2015,4-Wheel Drive,Automatic 5-spd,Small Sport Utility Vehicle 4WD,4,6,3.6,15.9033,20.0743,17.5436,18.304342,505,2100,-2500
+Jeep,Wrangler Unlimited 4WD,2015,4-Wheel Drive,Manual 6-spd,Small Sport Utility Vehicle 4WD,4,6,3.6,15.6746,20.7057,17.5989,18.304342,503,2100,-2500
+Kia,Cadenza,2015,Front-Wheel Drive,Automatic 6-spd,Large Cars,5,6,3.3,18.5539,28.0665,21.893,14.964294,404,1750,-750
+Kia,Forte,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,1.8,25.3353,37.3364,29.6196,10.987,299,1300,1500
+Kia,Forte,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2,24.6352,35.6323,28.6084,11.360558,310,1300,1500
+Kia,Forte,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,8,4,1.8,26.3151,38.639,30.725,10.613442,289,1250,1750
+Kia,Forte 5,2015,Front-Wheel Drive,Automatic (S6),Large Cars,7,4,2,24.7637,33.3104,27.9961,11.75609,317,1350,1250
+Kia,Forte 5,2015,Front-Wheel Drive,Automatic (S6),Large Cars,6,4,1.6,21.2117,29.2912,24.2177,13.73375,367,1600,0
+Kia,Forte 5,2015,Front-Wheel Drive,Manual 6-spd,Large Cars,6,4,1.6,21.2117,28.6751,24.0257,13.73375,365,1600,0
+Kia,Forte Koup,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,2,24.9068,33.7939,28.2499,11.75609,314,1350,1250
+Kia,Forte Koup,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,2,24.1899,32.6547,27.3842,12.19557,323,1400,1000
+Kia,Forte Koup,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,6,4,1.6,22.0898,29.9744,25.0557,13.1844,350,1550,250
+Kia,Forte Koup,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,6,4,1.6,21.7977,28.949,24.5239,13.1844,357,1550,250
+Kia,K900,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,5,6,3.8,17.7196,26.5446,20.8369,15.689436,427,1800,-1000
+Kia,K900,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,4,8,5,14.9865,22.8718,17.7385,18.304342,494,2450,-4250
+Kia,Optima,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,4,2,20.0324,30.6564,23.7336,13.73375,369,1600,0
+Kia,Optima,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2.4,22.6908,33.7371,26.6118,12.19557,330,1400,1000
+Kia,Optima Hybrid,2015,Front-Wheel Drive,Auto(AM6),Midsize Cars,9,4,2.4,35.9031,39.7338,37.5313,8.657756,237,1000,3000
+Kia,Optima Hybrid EX,2015,Front-Wheel Drive,Auto(AM6),Midsize Cars,9,4,2.4,35.241,38.8034,36.7597,8.89947,242,1050,2750
+Kia,Rio,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,8,4,1.6,26.7328,37.1586,30.5958,10.613442,288,1250,1750
+Kia,Rio,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,8,4,1.6,27.001,37.0539,30.7559,10.613442,285,1250,1750
+Kia,Rio Eco,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,8,4,1.6,27.5067,37.056,31.1149,10.613442,281,1250,1750
+Kia,Sedona,2015,Front-Wheel Drive,Automatic (S6),Minivan - 2WD,5,6,3.3,17.7948,24.3317,20.242,16.4805,442,1900,-1500
+Kia,Sedona SX,2015,Front-Wheel Drive,Automatic (S6),Minivan - 2WD,5,6,3.3,18.1702,24.8862,20.6818,15.689436,432,1800,-1000
+Kia,Sedona SXL,2015,Front-Wheel Drive,Automatic (S6),Minivan - 2WD,4,6,3.3,16.5871,22.4536,18.7971,17.337486,476,2000,-2000
+Kia,Sorento AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,19.2904,25.0247,21.5082,14.964294,408,1750,-750
+Kia,Sorento AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,6,3.3,17.5594,23.5588,19.8321,16.4805,449,1900,-1500
+Kia,Sorento FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,5,4,2.4,19.9584,27.0268,22.6206,14.327048,388,1650,-250
+Kia,Sorento FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,5,6,3.3,18.3567,25.1348,20.892,15.689436,425,1800,-1000
+Kia,Soul,2015,Front-Wheel Drive,Automatic (S6),Small Station Wagons,6,4,1.6,23.974,30.0427,26.3712,12.657024,332,1450,750
+Kia,Soul,2015,Front-Wheel Drive,Manual 6-spd,Small Station Wagons,6,4,1.6,23.6858,30.1109,26.2017,12.657024,335,1450,750
+Kia,Soul,2015,Front-Wheel Drive,Automatic (S6),Small Station Wagons,6,4,2,23.3345,30.6622,26.1463,12.657024,341,1450,750
+Kia,Soul ECO dynamics,2015,Front-Wheel Drive,Automatic (S6),Small Station Wagons,7,4,2,24.1899,30.5201,26.6801,12.19557,334,1400,1000
+Kia,Soul Electric,2015,Front-Wheel Drive,Automatic (A1),Small Station Wagons,10,NA,NA,119.6,92,105.3754,0.192,0,600,5000
+Kia,Sportage AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2.4,19.4687,25.907,21.92,14.964294,400,1750,-750
+Kia,Sportage AWD,2015,All-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 4WD,5,4,2,18.6193,24.3317,20.8187,15.689436,421,1800,-1000
+Kia,Sportage FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,6,4,2.4,20.6005,28.3832,23.5002,13.73375,373,1600,0
+Kia,Sportage FWD,2015,Front-Wheel Drive,Automatic 6-spd,Small Sport Utility Vehicle 2WD,5,4,2,20.402,26.1997,22.6583,14.327048,393,1650,-250
+Lamborghini,Aventador Coupe,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,1,12,6.5,10.6055,18.4729,13.1199,25.336022,676,3400,-9000
+Lamborghini,Aventador Roadster,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,1,12,6.5,9.7957,16.2453,11.9264,27.4675,742,3700,-10500
+Lamborghini,Huracan,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,3,10,5.2,14.0224,20.0427,16.214,20.589638,544,2750,-5750
+Lamborghini,Veneno Roadster,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,1,12,6.5,10.6353,16.9743,12.7836,25.336022,692,3400,-9000
+Land Rover,LR2,2015,4-Wheel Drive,Automatic (S9),Small Sport Utility Vehicle 4WD,5,4,2,17.4185,23.6373,19.7576,16.4805,450,2200,-3000
+Land Rover,LR4,2015,4-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,3,6,3,14.5259,19.4418,16.391,20.589638,540,2750,-5750
+Land Rover,Range Rover,2015,4-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,4,6,3,16.8819,22.6628,19.0766,17.337486,466,2350,-3750
+Land Rover,Range Rover Evoque,2015,4-Wheel Drive,Automatic (S9),Small Sport Utility Vehicle 4WD,6,4,2,20.9178,29.7696,24.1491,13.73375,369,1850,-1250
+Land Rover,Range Rover FFV,2015,4-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,3,8,5,13.6778,18.8082,15.5917,20.589638,572,2750,-5750
+Land Rover,Range Rover L FFV,2015,4-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,3,8,5,13.6778,18.8082,15.5917,20.589638,572,2750,-5750
+Land Rover,Range Rover LWB,2015,4-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,4,6,3,16.8819,22.6628,19.0766,17.337486,466,2350,-3750
+Land Rover,Range Rover Sport,2015,4-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,4,6,3,16.8143,22.3839,18.9343,17.337486,469,2350,-3750
+Land Rover,Range Rover Sport,2015,4-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,3,8,5,13.6005,19.3011,15.6852,20.589638,569,2750,-5750
+Land Rover,Range Rover Sport FFV,2015,4-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,3,8,5,14.141,19.1604,16.0308,20.589638,554,2750,-5750
+Lexus,CT 200h,2015,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,9,4,1.8,43,40,42,7.844718,211,900,3500
+Lexus,ES 300h,2015,Front-Wheel Drive,Auto(AV-S6),Midsize Cars,9,4,2.5,40.3222,38.8285,39.6361,8.24025,223,950,3250
+Lexus,ES 350,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,6,3.5,20.7499,31.1594,24.4212,13.73375,361,1600,0
+Lexus,GS 350,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,5,6,3.5,19.1658,28.7486,22.548,14.327048,392,1900,-1500
+Lexus,GS 350 AWD,2015,All-Wheel Drive,Automatic (S6),Midsize Cars,5,6,3.5,18.5845,26.2343,21.3914,15.689436,413,2100,-2500
+Lexus,GS 450h,2015,Rear-Wheel Drive,Auto(AV-S8),Midsize Cars,8,6,3.5,29.3324,34.1708,31.3286,10.613442,283,1450,750
+Lexus,GX 460,2015,4-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,8,4.6,14.9865,20.0743,16.9158,19.381068,518,2600,-5000
+Lexus,IS 250,2015,Rear-Wheel Drive,Automatic (S6),Compact Cars,6,6,2.5,21.1625,30.1762,24.4488,13.73375,361,1850,-1250
+Lexus,IS 250 AWD,2015,All-Wheel Drive,Automatic (S6),Compact Cars,5,6,2.5,19.9953,27.1644,22.69,14.327048,389,1900,-1500
+Lexus,IS 250 C,2015,Rear-Wheel Drive,Automatic (S6),Subcompact Cars,6,6,2.5,21.0648,30.2474,24.3978,13.73375,359,1850,-1250
+Lexus,IS 350,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,5,6,3.5,19.1658,28,22,14.964294,401,2000,-2000
+Lexus,IS 350 AWD,2015,All-Wheel Drive,Automatic (S6),Compact Cars,5,6,3.5,18.5845,26.2343,21.3914,15.689436,413,2100,-2500
+Lexus,IS 350 C,2015,Rear-Wheel Drive,Automatic (S6),Subcompact Cars,5,6,3.5,19.2904,26.9577,22.1217,14.964294,400,2000,-2000
+Lexus,LS 460,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,4,8,4.6,16.2835,24.401,19.1503,17.337486,460,2350,-3750
+Lexus,LS 460 AWD,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,4,8,4.6,15.5695,23.0328,18.2273,18.304342,486,2450,-4250
+Lexus,LS 460 L,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,4,8,4.6,16.2835,24.401,19.1503,17.337486,460,2350,-3750
+Lexus,LS 460 L AWD,2015,All-Wheel Drive,Automatic (S8),Midsize Cars,4,8,4.6,15.5695,23.0328,18.2273,18.304342,486,2450,-4250
+Lexus,LS 600h L,2015,All-Wheel Drive,Auto(AV-S8),Midsize Cars,5,8,5,18.5788,23.2848,20.4375,16.4805,432,2200,-3000
+Lexus,LX 570,2015,4-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,2,8,5.7,12.395,17.235,14.1879,23.534154,623,3150,-7750
+Lexus,NX 200t,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,6,4,2,22.3799,28.3757,24.7315,13.1844,357,1750,-750
+Lexus,NX 200t AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,6,4,2,22.1564,28.1579,24,13.73375,368,1850,-1250
+Lexus,NX 200t AWD F Sport,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,6,4,2,21.8201,26.8371,23.8243,13.73375,372,1850,-1250
+Lexus,NX 300h,2015,Front-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 2WD,8,4,2.5,34.7454,30.7414,32.8217,9.976196,270,1150,2250
+Lexus,NX 300h AWD,2015,All-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 4WD,8,4,2.5,33.3123,30.4562,31.9634,10.283832,276,1200,2000
+Lexus,RC 350,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,5,6,3.5,19.1658,28,22,14.964294,401,2000,-2000
+Lexus,RC 350 AWD,2015,All-Wheel Drive,Automatic (S6),Subcompact Cars,5,6,3.5,18.5845,26.2343,21.3914,15.689436,413,2100,-2500
+Lexus,RC F,2015,Rear-Wheel Drive,Automatic (S8),Subcompact Cars,4,8,5,16,25,19,17.337486,465,2350,-3750
+Lexus,RX 350,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,6,3.5,18.1836,24.8862,20.6914,15.689436,428,1800,-1000
+Lexus,RX 350 AWD,2015,All-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 4WD,5,6,3.5,18.4697,25.7855,21.1729,15.689436,420,1800,-1000
+Lexus,RX 350 AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3.5,17.5473,24.0289,19.9715,16.4805,445,1900,-1500
+Lexus,RX 450h,2015,Front-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 2WD,7,6,3.5,31.5059,27.9177,29.7833,10.987,297,1500,500
+Lexus,RX 450h AWD,2015,All-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 4WD,7,6,3.5,29.5084,27.5778,28.6072,11.360558,309,1550,250
+Lincoln,MKC  AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,4,2,19,26,22,14.964294,404,1750,-750
+Lincoln,MKC  AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,4,2.3,18.1966,25.6327,20.9288,15.689436,425,1800,-1000
+Lincoln,MKC  FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,4,2,20,29,23,14.327048,387,1650,-250
+Lincoln,MKS AWD,2015,All-Wheel Drive,Automatic (S6),Large Cars,5,6,3.5,16.9656,24.8862,19.8016,16.4805,449,1900,-1500
+Lincoln,MKS AWD,2015,All-Wheel Drive,Automatic (S6),Large Cars,5,6,3.7,18.0201,26.1307,20.9457,15.689436,424,1800,-1000
+Lincoln,MKS FWD,2015,Front-Wheel Drive,Automatic (S6),Large Cars,5,6,3.7,19.0265,28.083,22.2564,14.964294,400,1750,-750
+Lincoln,MKT AWD,2015,All-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,6,3.5,16.0555,22.5234,18.4381,18.304342,482,2100,-2500
+Lincoln,MKT FWD,2015,Front-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,5,6,3.7,17.2676,24.5397,19.9246,16.4805,446,1900,-1500
+Lincoln,MKT Livery AWD,2015,All-Wheel Drive,Automatic 6-spd,Special Purpose Vehicle 4WD,4,6,3.7,16.7386,23.5677,19.2485,17.337486,462,2000,-2000
+Lincoln,MKT Livery FWD,2015,Front-Wheel Drive,Automatic (S6),Special Purpose Vehicle 2WD,5,4,2,20.402,27.9206,23.2152,14.327048,382,1650,-250
+Lincoln,MKX AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,4,6,3.7,17.2218,22.8483,19.3681,17.337486,459,2000,-2000
+Lincoln,MKX FWD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,6,3.7,17.6444,25.6473,20.5267,15.689436,431,1800,-1000
+Lincoln,MKZ AWD,2015,All-Wheel Drive,Automatic (S6),Midsize Cars,6,4,2,21.7237,31.4033,25.2222,13.1844,354,1550,250
+Lincoln,MKZ AWD,2015,All-Wheel Drive,Automatic (S6),Midsize Cars,5,6,3.7,18.0201,25.5781,20.7837,15.689436,427,1800,-1000
+Lincoln,MKZ FWD,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,4,2,22.4541,33.3709,26.3302,12.657024,338,1450,750
+Lincoln,MKZ FWD,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,5,6,3.7,18.3949,27.0956,21.5019,14.964294,413,1750,-750
+Lincoln,MKZ Hybrid FWD,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,9,4,2,41,39,40,8.24025,222,950,3250
+Lincoln,Navigator 2WD,2015,Rear-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,4,6,3.5,15.7509,21.9651,18.0487,18.304342,491,2100,-2500
+Lincoln,Navigator 4WD,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,4,6,3.5,14.5107,19.875,16.5168,19.381068,537,2250,-3250
+Lincoln,Navigator L 2WD,2015,Rear-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,4,6,3.5,14.7564,19.6528,16.6197,19.381068,534,2250,-3250
+Lincoln,Navigator L 4WD,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,3,6,3.5,14.6028,19.09,16.3301,20.589638,546,2400,-4000
+Maserati,Ghibli V6,2015,Rear-Wheel Drive,Automatic 8-spd,Midsize Cars,4,6,3,15.4837,24.5298,18.5645,17.337486,482,2350,-3750
+Maserati,Ghibli V6 SQ4,2015,All-Wheel Drive,Automatic 8-spd,Midsize Cars,4,6,3,15.0631,24.8897,18.3174,18.304342,488,2450,-4250
+Maserati,GranTurismo,2015,Rear-Wheel Drive,Automatic 6-spd,Subcompact Cars,3,8,4.7,12.937,20.656,15.552,20.589638,574,2750,-5750
+Maserati,GranTurismo Convertible,2015,Rear-Wheel Drive,Automatic 6-spd,Subcompact Cars,3,8,4.7,12.924,20.212,15.4271,21.974,579,2950,-6750
+Maserati,Quattroporte GTS,2015,Rear-Wheel Drive,Automatic 8-spd,Large Cars,3,8,3.8,13.4068,21.9835,16.2618,20.589638,548,2750,-5750
+Maserati,Quattroporte SQ4 V6,2015,All-Wheel Drive,Automatic 8-spd,Large Cars,4,6,3,14.9861,24.2653,18.101,18.304342,493,2450,-4250
+Mazda,5,2015,Front-Wheel Drive,Automatic (S5),Minivan - 2WD,6,4,2.5,21.4863,27.6831,23.8931,13.73375,370,1600,0
+Mazda,6,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2.5,26.0884,37.7138,30.29,10.987,293,1300,1500
+Mazda,6,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,8,4,2.5,27.9814,39.8982,32.3263,10.283832,275,1200,2000
+Mazda,6,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,2.5,24.9521,36.5243,29.1012,11.360558,304,1300,1500
+Mazda,3 4-Door,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,8,4,2,29.2748,40.6654,33.497,9.976196,265,1150,2250
+Mazda,3 4-Door,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,8,4,2,29.8946,41.1906,34.1032,9.690534,260,1100,2500
+Mazda,3 4-Door,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,8,4,2.5,27.9646,38.8185,31.9896,10.283832,277,1200,2000
+Mazda,3 4-Door,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,8,4,2.5,28.8679,39.8955,32.9688,9.976196,271,1150,2250
+Mazda,3 4-Door,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,2.5,25.1926,36.8013,29.3603,11.360558,304,1300,1500
+Mazda,3 5-Door,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,8,4,2,28.8583,39.9366,32.9744,9.976196,269,1150,2250
+Mazda,3 5-Door,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,8,4,2,29.5492,39.9328,33.465,9.976196,265,1150,2250
+Mazda,3 5-Door,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,8,4,2.5,27.3198,36.6,30.8385,10.613442,288,1250,1750
+Mazda,3 5-Door,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,8,4,2.5,28.47,38.9632,32.3961,10.283832,275,1200,2000
+Mazda,3 5-Door,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,7,4,2.5,25.549,35.3929,29.2042,11.360558,305,1300,1500
+Mazda,CX-5 2WD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,7,4,2,26.4348,32.2875,28.7826,11.360558,307,1300,1500
+Mazda,CX-5 2WD,2015,Front-Wheel Drive,Manual 6-spd,Small Sport Utility Vehicle 2WD,7,4,2,26.1174,34.5855,29.3513,11.360558,302,1300,1500
+Mazda,CX-5 2WD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,7,4,2.5,24.6199,31.6438,27.352,12.19557,324,1400,1000
+Mazda,CX-5 4WD,2015,4-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,7,4,2,25.4066,30.8607,27.6017,11.75609,321,1350,1250
+Mazda,CX-5 4WD,2015,4-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,6,4,2.5,23.8004,29.8398,26.1853,12.657024,338,1450,750
+Mazda,CX-9 2WD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,4,6,3.7,16.8911,23.8627,19.448,17.337486,457,2000,-2000
+Mazda,CX-9 4WD,2015,4-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,4,6,3.7,16.3919,21.9443,18.4981,18.304342,480,2100,-2500
+Mazda,MX-5,2015,Rear-Wheel Drive,Manual 5-spd,Two Seaters,6,4,2,22.3814,27.7145,24.5032,13.1844,356,1750,-750
+Mazda,MX-5,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,6,4,2,21.2117,27.8519,23.7609,13.73375,368,1850,-1250
+Mazda,MX-5,2015,Rear-Wheel Drive,Automatic (S6),Two Seaters,5,4,2,20.6108,27.6251,23.2695,14.327048,375,1900,-1500
+McLaren Automotive,650S Coupe,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,4,8,3.8,15.6087,22.4322,18.0841,18.304342,499,2450,-4250
+McLaren Automotive,650S Spider,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,4,8,3.8,15.6087,22.4322,18.0841,18.304342,499,2450,-4250
+McLaren Automotive,P1,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,4,8,3.8,15.5628,20.388,17.4178,10.79436611,463,2600,-4750
+Mercedes-Benz,B-Class Electric Drive,2015,Front-Wheel Drive,Automatic (A1),Midsize Cars,10,NA,NA,85.4,81.9,83.7887,0.24,0,700,4500
+Mercedes-Benz,C250 Coupe,2015,Rear-Wheel Drive,Automatic 7-spd,Subcompact Cars,6,4,1.8,21.505,31.473,25.0794,13.1844,353,1750,-750
+Mercedes-Benz,C300 4matic,2015,4-Wheel Drive,Automatic 7-spd,Compact Cars,7,4,2,24.118,31.405,26.9299,12.19557,330,1650,-250
+Mercedes-Benz,C350 4matic Coupe,2015,4-Wheel Drive,Automatic 7-spd,Subcompact Cars,5,6,3.5,19.4391,27.0956,22.2711,14.964294,398,2000,-2000
+Mercedes-Benz,C350 Coupe,2015,Rear-Wheel Drive,Automatic 7-spd,Subcompact Cars,5,6,3.5,20.1596,28.3235,23.1641,14.327048,382,1900,-1500
+Mercedes-Benz,C400 4matic,2015,4-Wheel Drive,Automatic 7-spd,Compact Cars,6,6,3,21.0648,28.538,23.8787,13.73375,372,1850,-1250
+Mercedes-Benz,C63 AMG Coupe,2015,Rear-Wheel Drive,Automatic 7-spd,Subcompact Cars,3,8,6.2,13.2131,19.3011,15.3988,21.974,578,2950,-6750
+Mercedes-Benz,CLA250,2015,Front-Wheel Drive,Auto(AM7),Compact Cars,7,4,2,25.9755,38.004,30.2896,10.987,294,1500,500
+Mercedes-Benz,CLA250 4matic,2015,4-Wheel Drive,Auto(AM7),Compact Cars,7,4,2,24.118,33.1004,27.4729,12.19557,321,1650,-250
+Mercedes-Benz,CLA250 4matic,2015,4-Wheel Drive,Auto(AM7),Compact Cars,7,4,2,24.118,33.1004,27.4729,12.19557,321,1650,-250
+Mercedes-Benz,CLA45 AMG 4matic,2015,4-Wheel Drive,Auto(AM7),Compact Cars,6,4,2,22.9626,30.7245,25.9079,12.657024,345,1700,-500
+Mercedes-Benz,CLS400,2015,Rear-Wheel Drive,Automatic 7-spd,Compact Cars,6,6,3,20.1804,29.9744,23.6591,13.73375,375,1850,-1250
+Mercedes-Benz,CLS400 4matic,2015,4-Wheel Drive,Automatic 7-spd,Compact Cars,5,6,3,19.5134,27.5771,22.4701,14.964294,395,2000,-2000
+Mercedes-Benz,CLS550,2015,Rear-Wheel Drive,Automatic 9-spd,Compact Cars,5,8,4.7,17.4938,26.1307,20.5504,15.689436,432,2100,-2500
+Mercedes-Benz,CLS550 4matic,2015,4-Wheel Drive,Automatic 7-spd,Compact Cars,4,8,4.7,16.7386,23.7762,19.3107,17.337486,462,2350,-3750
+Mercedes-Benz,CLS63 AMG S 4matic,2015,4-Wheel Drive,Automatic 7-spd,Compact Cars,4,8,5.5,15.5983,21.8254,17.896,18.304342,496,2450,-4250
+Mercedes-Benz,E250 Bluetec,2015,Rear-Wheel Drive,Automatic 7-spd,Midsize Cars,8,4,2.1,28.2285,41.6529,33.017,11.567466,308,1600,0
+Mercedes-Benz,E250 Bluetec 4matic,2015,4-Wheel Drive,Automatic 7-spd,Midsize Cars,8,4,2.1,27.1769,38.4705,31.3136,12.306357,325,1700,-500
+Mercedes-Benz,E350,2015,Rear-Wheel Drive,Automatic 7-spd,Midsize Cars,5,6,3.5,20.402,28.6065,23.4253,14.327048,377,1900,-1500
+Mercedes-Benz,E350,2015,Rear-Wheel Drive,Automatic 7-spd,Midsize Cars,5,6,3.5,20.402,28.6065,23.4253,14.327048,377,1900,-1500
+Mercedes-Benz,E350 4matic,2015,4-Wheel Drive,Automatic 7-spd,Midsize Cars,5,6,3.5,20.4758,27.6458,23.1812,14.327048,382,1900,-1500
+Mercedes-Benz,E350 4matic,2015,4-Wheel Drive,Automatic 7-spd,Midsize Cars,5,6,3.5,20.4758,27.6458,23.1812,14.327048,382,1900,-1500
+Mercedes-Benz,E350 4matic (wagon),2015,4-Wheel Drive,Automatic 7-spd,Midsize Station Wagons,5,6,3.5,19.9584,26.6135,22.4891,14.964294,394,2000,-2000
+Mercedes-Benz,E350 Convertible,2015,Rear-Wheel Drive,Automatic 7-spd,Subcompact Cars,5,6,3.5,19.5877,27.9892,22.6467,14.327048,390,1900,-1500
+Mercedes-Benz,E350 Coupe,2015,Rear-Wheel Drive,Automatic 7-spd,Subcompact Cars,5,6,3.5,19.1415,28.3323,22.4133,14.964294,397,2000,-2000
+Mercedes-Benz,E400,2015,Rear-Wheel Drive,Automatic 7-spd,Midsize Cars,5,6,3,20.3282,29.0175,23.4941,14.327048,378,1900,-1500
+Mercedes-Benz,E400 (convertible),2015,Rear-Wheel Drive,Automatic 7-spd,Subcompact Cars,6,6,3,20.402,29.1543,23.5887,13.73375,374,1850,-1250
+Mercedes-Benz,E400 (coupe),2015,Rear-Wheel Drive,Automatic 7-spd,Subcompact Cars,6,6,3,20.2543,29.4963,23.5789,13.73375,375,1850,-1250
+Mercedes-Benz,E400 4matic,2015,4-Wheel Drive,Automatic 7-spd,Midsize Cars,5,6,3,19.6619,27.5771,22.5781,14.327048,393,1900,-1500
+Mercedes-Benz,E400 4matic (coupe),2015,4-Wheel Drive,Automatic 7-spd,Subcompact Cars,5,6,3,19.9584,28.1265,22.9587,14.327048,384,1900,-1500
+Mercedes-Benz,E400 4matic (Wagon),2015,4-Wheel Drive,Automatic 7-spd,Midsize Station Wagons,5,6,3,18.918,26.5446,21.7271,14.964294,408,2000,-2000
+Mercedes-Benz,E400 Hybrid,2015,Rear-Wheel Drive,Automatic 7-spd,Midsize Cars,6,6,3.5,23.6136,28.538,25.6016,12.657024,347,1700,-500
+Mercedes-Benz,E550 Convertible,2015,Rear-Wheel Drive,Automatic 7-spd,Subcompact Cars,5,8,4.7,17.1922,25.5781,20.1676,16.4805,442,2200,-3000
+Mercedes-Benz,E550 Coupe,2015,Rear-Wheel Drive,Automatic 7-spd,Subcompact Cars,5,8,4.7,17.5691,26.3377,20.6651,15.689436,430,2100,-2500
+Mercedes-Benz,E63 AMG 4matic,2015,4-Wheel Drive,Automatic 7-spd,Midsize Cars,4,8,5.5,16.1315,22.8022,18.5771,17.337486,475,2350,-3750
+Mercedes-Benz,E63 AMG S 4matic,2015,4-Wheel Drive,Automatic 7-spd,Midsize Cars,4,8,5.5,15.3692,21.7555,17.7084,18.304342,498,2450,-4250
+Mercedes-Benz,E63 AMG S 4matic (Wagon),2015,4-Wheel Drive,Automatic 7-spd,Midsize Station Wagons,4,8,5.5,15.4456,21.4759,17.6795,18.304342,498,2450,-4250
+Mercedes-Benz,G550,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,1,8,5.5,11.7318,14.7687,12.9281,25.336022,686,3400,-9000
+Mercedes-Benz,G63 AMG,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,1,8,5.5,11.8014,14.1992,12.7719,25.336022,696,3400,-9000
+Mercedes-Benz,GL350 Bluetec 4matic,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,5,6,3,19.067,25.9926,21.6646,17.351199,469,2400,-4000
+Mercedes-Benz,GL450 4matic,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,4,6,3,16.8899,20.986,18.5162,17.337486,480,2350,-3750
+Mercedes-Benz,GL550 4matic,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,3,8,4.7,13.447,17.8002,15.1099,21.974,587,2950,-6750
+Mercedes-Benz,GL63 AMG,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,2,8,5.5,12.95,16.7703,14.4291,23.534154,615,3150,-7750
+Mercedes-Benz,GLA250 4matic,2015,4-Wheel Drive,Auto(AM7),Small Sport Utility Vehicle 4WD,7,4,2,24.118,31.9484,27.1078,12.19557,327,1650,-250
+Mercedes-Benz,GLA250 4matic,2015,4-Wheel Drive,Auto(AM7),Small Sport Utility Vehicle 4WD,7,4,2,24.118,31.9484,27.1078,12.19557,327,1650,-250
+Mercedes-Benz,GLA45 AMG 4matic,2015,4-Wheel Drive,Auto(AM7),Midsize Station Wagons,6,4,2,22.8901,29.1543,25.3402,13.1844,350,1750,-750
+Mercedes-Benz,GLK250 Bluetec 4matic,2015,4-Wheel Drive,Automatic 7-spd,Small Sport Utility Vehicle 4WD,7,4,2.1,24.4053,33.2357,27.7195,13.631265,367,1900,-1500
+Mercedes-Benz,GLK350,2015,Rear-Wheel Drive,Automatic 7-spd,Small Sport Utility Vehicle 2WD,5,6,3.5,19.067,25.7838,21.599,14.964294,413,2000,-2000
+Mercedes-Benz,GLK350,2015,Rear-Wheel Drive,Automatic 7-spd,Small Sport Utility Vehicle 2WD,5,6,3.5,18.7819,25.3707,21.2673,15.689436,418,2100,-2500
+Mercedes-Benz,GLK350 4matic,2015,4-Wheel Drive,Automatic 7-spd,Small Sport Utility Vehicle 4WD,5,6,3.5,18.1702,23.5774,20.2612,16.4805,444,2200,-3000
+Mercedes-Benz,GLK350 4matic,2015,4-Wheel Drive,Automatic 7-spd,Small Sport Utility Vehicle 4WD,5,6,3.5,18.2451,24.7476,20.6917,15.689436,430,2100,-2500
+Mercedes-Benz,ML250 Bluetec 4matic,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,6,4,2.1,22.0395,28.7666,24.6316,15.2874,413,2100,-2500
+Mercedes-Benz,ML350,2015,Rear-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 2WD,5,6,3.5,18.1702,23.5677,20.258,16.4805,440,2200,-3000
+Mercedes-Benz,ML350 4matic,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,4,6,3.5,17.4938,22.3839,19.4011,17.337486,456,2350,-3750
+Mercedes-Benz,ML350 4matic,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,4,6,3.5,17.4938,22.3839,19.4011,17.337486,456,2350,-3750
+Mercedes-Benz,ML400 4matic,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,5,6,3,17.8699,22.0349,19.5312,16.4805,454,2200,-3000
+Mercedes-Benz,ML63 AMG,2015,4-Wheel Drive,Automatic 7-spd,Standard Sport Utility Vehicle 4WD,3,8,5.5,13.0729,16.8556,14.5414,21.974,611,2950,-6750
+Mercedes-Benz,S550,2015,Rear-Wheel Drive,Automatic 7-spd,Large Cars,5,8,4.7,16.8455,26.1061,20.0453,16.4805,444,2200,-3000
+Mercedes-Benz,S550 4matic,2015,4-Wheel Drive,Automatic 7-spd,Large Cars,4,8,4.7,15.9779,25.7868,19.2777,17.337486,462,2350,-3750
+Mercedes-Benz,S550 4matic Coupe,2015,4-Wheel Drive,Automatic 7-spd,Compact Cars,4,8,4.7,16.3595,23.9846,19.0907,17.337486,465,2350,-3750
+Mercedes-Benz,S600,2015,Rear-Wheel Drive,Automatic 7-spd,Large Cars,3,12,6,12.747,21.056,15.4993,21.974,574,2950,-6750
+Mercedes-Benz,S63 AMG 4matic,2015,4-Wheel Drive,Automatic 7-spd,Large Cars,4,8,5.5,15.0138,23.2509,17.8613,18.304342,499,2450,-4250
+Mercedes-Benz,S63 AMG 4matic Coupe,2015,4-Wheel Drive,Automatic 7-spd,Compact Cars,4,8,5.5,15.3692,23.1504,18.1081,18.304342,490,2450,-4250
+Mercedes-Benz,S65 AMG,2015,Rear-Wheel Drive,Automatic 7-spd,Large Cars,3,12,6,12.747,19.9339,15.2156,21.974,581,2950,-6750
+Mercedes-Benz,S65 AMG (coupe),2015,Rear-Wheel Drive,Automatic 7-spd,Compact Cars,3,12,6,13.0579,20.8459,15.6968,20.589638,563,2750,-5750
+Mercedes-Benz,SL400,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,5,6,3,19.9584,27.0956,22.6423,14.327048,392,1900,-1500
+Mercedes-Benz,SL550,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,5,8,4.7,17.4938,24.2623,20.0052,16.4805,442,2200,-3000
+Mercedes-Benz,SL63 AMG,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,4,8,5.5,15.9541,24.662,18.9679,17.337486,468,2350,-3750
+Mercedes-Benz,SL65 AMG,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,4,12,6,14.0639,21.056,16.5347,19.381068,539,2600,-5000
+Mercedes-Benz,SLK250,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,6,4,1.8,22.6723,32.6265,26.2804,12.657024,339,1700,-500
+Mercedes-Benz,SLK250,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,6,4,1.8,22.4541,32.3554,26.04,12.657024,343,1700,-500
+Mercedes-Benz,SLK350,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,6,6,3.5,21.2117,28.949,24.1117,13.73375,368,1850,-1250
+Mercedes-Benz,SLK55 AMG,2015,Rear-Wheel Drive,Automatic 7-spd,Two Seaters,5,8,5.5,19.0172,27.786,22.1649,14.964294,401,2000,-2000
+Mercedes-Benz,SLS AMG GT Coupe,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,3,8,6.2,12.9802,18.7377,15.063,21.974,592,2950,-6750
+Mercedes-Benz,SLS AMG GT Roadster,2015,Rear-Wheel Drive,Auto(AM7),Two Seaters,3,8,6.2,12.9802,18.7377,15.063,21.974,592,2950,-6750
+MINI,Cooper (3-doors),2015,Front-Wheel Drive,Automatic (S6),Subcompact Cars,8,3,1.5,27.6977,37.461,31.3777,10.613442,283,1450,750
+MINI,Cooper (3-doors),2015,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,8,3,1.5,29.1335,39.6674,33.0874,9.976196,267,1350,1250
+MINI,Cooper (5-doors),2015,Front-Wheel Drive,Automatic (S6),Subcompact Cars,8,3,1.5,27.6977,37.461,31.3777,10.613442,283,1450,750
+MINI,Cooper (5-doors),2015,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,8,3,1.5,28.7165,39.8665,32.851,9.976196,270,1350,1250
+MINI,Cooper Convertible,2015,Front-Wheel Drive,Automatic (S6),Minicompact Cars,7,4,1.6,25.9718,33.9721,29.0504,11.360558,300,1550,250
+MINI,Cooper Convertible,2015,Front-Wheel Drive,Manual 6-spd,Minicompact Cars,7,4,1.6,27.2112,33.5952,29.7557,10.987,298,1500,500
+MINI,Cooper Countryman,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.6,24.9783,29.9062,26.9788,12.19557,328,1650,-250
+MINI,Cooper Countryman,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,27.2112,33.5952,29.7557,10.987,298,1500,500
+MINI,Cooper Coupe,2015,Front-Wheel Drive,Automatic (S6),Two Seaters,8,4,1.6,27.6759,35.9544,30.8749,10.613442,287,1450,750
+MINI,Cooper Coupe,2015,Front-Wheel Drive,Manual 6-spd,Two Seaters,8,4,1.6,29.3032,36.7561,32.2454,10.283832,275,1400,1000
+MINI,Cooper Paceman,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.6,24.9783,29.9062,26.9788,12.19557,328,1650,-250
+MINI,Cooper Paceman,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,27.2112,33.5952,29.7557,10.987,298,1500,500
+MINI,Cooper Roadster,2015,Front-Wheel Drive,Automatic (S6),Two Seaters,7,4,1.6,25.9718,33.9721,29.0504,11.360558,300,1550,250
+MINI,Cooper Roadster,2015,Front-Wheel Drive,Manual 6-spd,Two Seaters,7,4,1.6,27.2112,33.5952,29.7557,10.987,298,1500,500
+MINI,Cooper S (3-doors),2015,Front-Wheel Drive,Automatic (S6),Subcompact Cars,7,4,2,25.583,33.2997,28.5614,11.360558,312,1550,250
+MINI,Cooper S (3-doors),2015,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,7,4,2,23.639,33.9118,27.37,12.19557,324,1650,-250
+MINI,Cooper S (5-doors),2015,Front-Wheel Drive,Automatic (S6),Subcompact Cars,7,4,2,25.583,33.2997,28.5614,11.360558,312,1550,250
+MINI,Cooper S (5-doors),2015,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,7,4,2,23.639,33.9118,27.37,12.19557,324,1650,-250
+MINI,Cooper S Convertible,2015,Front-Wheel Drive,Automatic (S6),Minicompact Cars,7,4,1.6,25.2565,33.6349,28.4451,11.75609,312,1600,0
+MINI,Cooper S Convertible,2015,Front-Wheel Drive,Manual 6-spd,Minicompact Cars,7,4,1.6,26.0926,34.858,29.4219,11.360558,302,1550,250
+MINI,Cooper S Countryman,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.6,25.1926,32.152,27.9113,11.75609,318,1600,0
+MINI,Cooper S Countryman,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,26.2591,32.2876,28.6678,11.360558,309,1550,250
+MINI,Cooper S Countryman All4,2015,All-Wheel Drive,Automatic (S6),Compact Cars,6,4,1.6,23.3335,30.3272,26.0353,12.657024,340,1700,-500
+MINI,Cooper S Countryman All4,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,25.1069,30.9353,27.4327,12.19557,323,1650,-250
+MINI,Cooper S Coupe,2015,Front-Wheel Drive,Automatic (S6),Two Seaters,7,4,1.6,25.2565,33.6349,28.4451,11.75609,312,1600,0
+MINI,Cooper S Coupe,2015,Front-Wheel Drive,Manual 6-spd,Two Seaters,7,4,1.6,26.0926,34.858,29.4219,11.360558,302,1550,250
+MINI,Cooper S Paceman,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.6,25.1926,32.152,27.9113,11.75609,318,1600,0
+MINI,Cooper S Paceman,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,26.2591,32.2876,28.6678,11.360558,309,1550,250
+MINI,Cooper S Paceman All4,2015,All-Wheel Drive,Automatic (S6),Compact Cars,6,4,1.6,23.3335,30.3272,26.0353,12.657024,340,1700,-500
+MINI,Cooper S Paceman All4,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,25.1069,30.9353,27.4327,12.19557,323,1650,-250
+MINI,Cooper S Roadster,2015,Front-Wheel Drive,Automatic (S6),Two Seaters,7,4,1.6,25.2565,33.6349,28.4451,11.75609,312,1600,0
+MINI,Cooper S Roadster,2015,Front-Wheel Drive,Manual 6-spd,Two Seaters,7,4,1.6,26.0926,34.858,29.4219,11.360558,302,1550,250
+MINI,JCW Countryman All4,2015,All-Wheel Drive,Automatic (S6),Compact Cars,6,4,1.6,23.3335,30.3272,26.0353,12.657024,340,1700,-500
+MINI,JCW Countryman All4,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,25.1069,30.9353,27.4327,12.19557,323,1650,-250
+MINI,JCW Paceman All4,2015,All-Wheel Drive,Automatic (S6),Compact Cars,6,4,1.6,23.3335,30.3272,26.0353,12.657024,340,1700,-500
+MINI,JCW Paceman All4,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,7,4,1.6,25.1069,30.9353,27.4327,12.19557,323,1650,-250
+MINI,John Cooper Works Convertible,2015,Front-Wheel Drive,Automatic (S6),Minicompact Cars,7,4,1.6,25.2565,33.6349,28.4451,11.75609,312,1600,0
+MINI,John Cooper Works Convertible,2015,Front-Wheel Drive,Manual 6-spd,Minicompact Cars,7,4,1.6,26.0926,34.858,29.4219,11.360558,302,1550,250
+MINI,John Cooper Works Coupe,2015,Front-Wheel Drive,Automatic (S6),Two Seaters,7,4,1.6,25.2565,33.6349,28.4451,11.75609,312,1600,0
+MINI,John Cooper Works Coupe,2015,Front-Wheel Drive,Manual 6-spd,Two Seaters,7,4,1.6,26.0926,34.858,29.4219,11.360558,302,1550,250
+MINI,John Cooper Works Roadster,2015,Front-Wheel Drive,Automatic (S6),Two Seaters,7,4,1.6,25.2565,33.6349,28.4451,11.75609,312,1600,0
+MINI,John Cooper Works Roadster,2015,Front-Wheel Drive,Manual 6-spd,Two Seaters,7,4,1.6,26.0926,34.858,29.4219,11.360558,302,1550,250
+Mitsubishi,Lancer,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,7,4,2,24.561,34.0997,28.0979,11.75609,314,1350,1250
+Mitsubishi,Lancer,2015,Front-Wheel Drive,Auto(AV-S6),Compact Cars,7,4,2,25.8187,33.9162,28.9265,11.360558,306,1300,1500
+Mitsubishi,Lancer,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,6,4,2.4,22.4717,30.9745,25.6389,12.657024,346,1450,750
+Mitsubishi,Lancer,2015,Front-Wheel Drive,Auto(AV-S6),Compact Cars,6,4,2.4,22.9698,30.1645,25.7316,12.657024,344,1450,750
+Mitsubishi,Lancer AWD,2015,All-Wheel Drive,Auto(AV-S6),Compact Cars,6,4,2.4,22.3028,28.5558,24.7407,13.1844,358,1550,250
+Mitsubishi,Lancer AWD,2015,All-Wheel Drive,Auto(AM6),Compact Cars,5,4,2,17.5397,24.9809,20.2547,16.4805,437,2200,-3000
+Mitsubishi,Lancer Evolution,2015,All-Wheel Drive,Manual 5-spd,Compact Cars,4,4,2,16.8053,22.9013,19.0922,17.337486,464,2350,-3750
+Mitsubishi,Lancer Evolution,2015,All-Wheel Drive,Auto(AM6),Compact Cars,4,4,2,16.5949,22.3827,18.7802,17.337486,470,2350,-3750
+Mitsubishi,Mirage,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,9,3,1.2,33.5382,42.4509,37.0375,8.89947,238,1050,2750
+Mitsubishi,Mirage,2015,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,9,3,1.2,36.8551,44.2102,39.8375,8.24025,222,950,3250
+Mitsubishi,Outlander 2WD,2015,Front-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 2WD,7,4,2.4,24.6933,30.6795,27.0702,12.19557,325,1400,1000
+Mitsubishi,Outlander 4WD,2015,4-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 4WD,6,4,2.4,23.7167,29.163,25.8927,12.657024,340,1450,750
+Mitsubishi,Outlander 4WD,2015,4-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3,20.3666,27.7174,23.1266,14.327048,381,1900,-1500
+Mitsubishi,Outlander Sport 2WD,2015,Front-Wheel Drive,Manual 5-spd,Small Sport Utility Vehicle 2WD,6,4,2,23.5584,29.5168,25.9122,12.657024,339,1450,750
+Mitsubishi,Outlander Sport 2WD,2015,Front-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 2WD,7,4,2,25.2053,32.399,28.0033,11.75609,313,1350,1250
+Mitsubishi,Outlander Sport 4WD,2015,4-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 4WD,7,4,2,24.3839,30.4209,26.775,12.19557,327,1400,1000
+Nissan,370Z,2015,Rear-Wheel Drive,Automatic (S7),Two Seaters,5,6,3.7,18.6998,25.8858,21.3693,15.689436,416,2100,-2500
+Nissan,370Z,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,5,6,3.7,17.7678,25.5498,20.5899,15.689436,432,2100,-2500
+Nissan,370Z Roadster,2015,Rear-Wheel Drive,Automatic (S7),Two Seaters,5,6,3.7,18.12,24.7392,20.6003,15.689436,433,2100,-2500
+Nissan,370Z Roadster,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,5,6,3.7,17.3352,24.4556,19.9489,16.4805,446,2200,-3000
+Nissan,Altima,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,8,4,2.5,27.0966,38.2342,31.1844,10.613442,284,1250,1750
+Nissan,Altima,2015,Front-Wheel Drive,Auto(AV-S7),Midsize Cars,6,6,3.5,22,31.9478,26.1849,12.657024,348,1450,750
+Nissan,Armada 2WD,2015,Rear-Wheel Drive,Automatic 5-spd,Standard Sport Utility Vehicle 2WD,3,8,5.6,12.5521,18.6672,14.7224,21.974,604,2550,-4750
+Nissan,Armada 2WD,2015,Rear-Wheel Drive,Automatic 5-spd,Standard Sport Utility Vehicle 2WD,3,8,5.6,12.4354,18.5967,14.6142,21.974,608,2550,-4750
+Nissan,Armada 4WD,2015,4-Wheel Drive,Automatic 5-spd,Standard Sport Utility Vehicle 4WD,2,8,5.6,12.2793,17.5375,14.1944,23.534154,628,2750,-5750
+Nissan,Armada 4WD,2015,4-Wheel Drive,Automatic 5-spd,Standard Sport Utility Vehicle 4WD,2,8,5.6,12.3182,17.5015,14.2123,23.534154,626,2750,-5750
+Nissan,Frontier 2WD,2015,Rear-Wheel Drive,Automatic 5-spd,Small Pickup Trucks 2WD,4,4,2.5,17.3031,22.6728,19.3672,17.337486,460,2000,-2000
+Nissan,Frontier 2WD,2015,Rear-Wheel Drive,Manual 5-spd,Small Pickup Trucks 2WD,5,4,2.5,19.483,23.2456,21.0136,15.689436,424,1800,-1000
+Nissan,Frontier 2WD,2015,Rear-Wheel Drive,Automatic 5-spd,Small Pickup Trucks 2WD,4,6,4,15.9381,22.4421,18.3284,18.304342,485,2100,-2500
+Nissan,Frontier 2WD,2015,Rear-Wheel Drive,Manual 6-spd,Small Pickup Trucks 2WD,4,6,4,16.5112,22,18.7653,17.337486,478,2000,-2000
+Nissan,Frontier 4WD,2015,4-Wheel Drive,Automatic 5-spd,Small Pickup Trucks 4WD,4,6,4,15.0946,20.8868,17.2469,19.381068,516,2250,-3250
+Nissan,Frontier 4WD,2015,4-Wheel Drive,Manual 6-spd,Small Pickup Trucks 4WD,4,6,4,15.8483,21.3305,17.921,18.304342,496,2100,-2500
+Nissan,GT-R,2015,All-Wheel Drive,Auto(AM6),Subcompact Cars,4,6,3.8,16.464,22.5029,18.7253,17.337486,472,2350,-3750
+Nissan,Juke,2015,Front-Wheel Drive,Auto(AV-S7),Small Station Wagons,7,4,1.6,27.7036,32.4354,29.6501,10.987,303,1500,500
+Nissan,Juke,2015,Front-Wheel Drive,Manual 6-spd,Small Station Wagons,7,4,1.6,27.8718,34.0462,30.3485,10.987,293,1500,500
+Nissan,Juke AWD,2015,All-Wheel Drive,Auto(AV-S7),Small Station Wagons,7,4,1.6,26,31,28,11.75609,318,1600,0
+Nissan,Juke Nismo RS,2015,Front-Wheel Drive,Manual 6-spd,Small Station Wagons,7,4,1.6,25,31.473,27,12.19557,330,1650,-250
+Nissan,Juke Nismo RS AWD,2015,All-Wheel Drive,Auto(AV-S8),Small Station Wagons,7,4,1.6,24.9783,28.949,26.6215,12.19557,334,1650,-250
+Nissan,Leaf,2015,Front-Wheel Drive,Automatic (A1),Midsize Cars,10,NA,NA,126.4612,101.3602,113.7816,0.18,0,550,5250
+Nissan,Murano AWD,2015,All-Wheel Drive,Auto(AV-S7),Midsize Station Wagons,6,6,3.5,21.0318,28,24.0729,13.73375,376,1600,0
+Nissan,Murano FWD,2015,Front-Wheel Drive,Auto(AV-S7),Midsize Station Wagons,6,6,3.5,21.303,28,24.4396,13.73375,373,1600,0
+Nissan,NV200 Cargo Van,2015,Front-Wheel Drive,Automatic (variable gear ratios),Special Purpose Vehicle 2WD,6,4,2,24.2617,26.2679,25.1252,13.1844,353,1550,250
+Nissan,Pathfinder 2WD,2015,Front-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 2WD,5,6,3.5,20.4848,27,23.314,14.327048,387,1650,-250
+Nissan,Pathfinder 4WD,2015,4-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 4WD,5,6,3.5,19,26,22,14.964294,404,1750,-750
+Nissan,Pathfinder 4WD Platinum,2015,4-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 4WD,5,6,3.5,19.4391,26.1997,21,15.689436,422,1800,-1000
+Nissan,Pathfinder Hybrid 2WD,2015,Front-Wheel Drive,Automatic (variable gear ratios),Standard Sport Utility Vehicle 2WD,6,4,2.5,25,28.411,26,12.657024,342,1450,750
+Nissan,Pathfinder Hybrid 4WD,2015,4-Wheel Drive,Automatic (variable gear ratios),Standard Sport Utility Vehicle 4WD,6,4,2.5,25,27.4535,26,12.657024,342,1450,750
+Nissan,Quest,2015,Front-Wheel Drive,Automatic (variable gear ratios),Minivan - 2WD,5,6,3.5,19.5761,27.0675,22.3611,14.964294,398,1750,-750
+Nissan,Rogue AWD,2015,All-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 4WD,7,4,2.5,24.933,31.564,27.5362,11.75609,323,1350,1250
+Nissan,Rogue FWD,2015,Front-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 2WD,7,4,2.5,25.6536,32.8067,28.4445,11.75609,313,1350,1250
+Nissan,Versa,2015,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,8,4,1.6,31.4872,39.9674,34.811,9.404872,255,1100,2500
+Nissan,Versa,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,7,4,1.6,27,36,30,10.987,296,1300,1500
+Nissan,Versa,2015,Front-Wheel Drive,Automatic 4-spd,Compact Cars,7,4,1.6,26.1174,35,29.88,10.987,302,1300,1500
+Nissan,Xterra 2WD,2015,Rear-Wheel Drive,Automatic 5-spd,Small Sport Utility Vehicle 2WD,4,6,4,15.8271,22.3839,18.2301,18.304342,489,2100,-2500
+Nissan,Xterra 4WD,2015,4-Wheel Drive,Automatic 5-spd,Small Sport Utility Vehicle 4WD,4,6,4,14.8449,19.9731,16.7841,19.381068,531,2250,-3250
+Nissan,Xterra 4WD,2015,4-Wheel Drive,Manual 6-spd,Small Sport Utility Vehicle 4WD,4,6,4,15.1117,19.5807,16.8414,19.381068,527,2250,-3250
+Porsche,911 Carrera,2015,Rear-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.4,18.8,27.3,21.9,14.964294,407,2000,-2000
+Porsche,911 Carrera,2015,Rear-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.4,20.2,28.2,23.2,14.327048,384,1900,-1500
+Porsche,911 Carrera 4,2015,4-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.4,19.1036,27.059,22.0164,14.964294,404,2000,-2000
+Porsche,911 Carrera 4,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.4,20.1778,27.611,22.9592,14.327048,387,1900,-1500
+Porsche,911 Carrera 4 Cabriolet,2015,4-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.4,18.7674,26.1995,21.5137,14.964294,413,2000,-2000
+Porsche,911 Carrera 4 Cabriolet,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.4,19.7713,26.8542,22.434,14.964294,396,2000,-2000
+Porsche,911 Carrera 4 GTS,2015,4-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.8,18.0536,25.5764,20.8077,15.689436,427,2100,-2500
+Porsche,911 Carrera 4 GTS,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,18.578,25.647,21.2085,15.689436,419,2100,-2500
+Porsche,911 Carrera 4 GTS Cabriolet,2015,4-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.8,17.5998,25.1624,20.3524,16.4805,437,2200,-3000
+Porsche,911 Carrera 4 GTS Cabriolet,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,17.9818,25.0939,20.6104,15.689436,431,2100,-2500
+Porsche,911 Carrera 4S,2015,4-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.8,18.4,26.3,21.2759,15.689436,416,2100,-2500
+Porsche,911 Carrera 4S,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,19.1,26.3,21.8,14.964294,406,2000,-2000
+Porsche,911 Carrera 4S Cabriolet,2015,4-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.8,18.2,25.9,21,15.689436,423,2100,-2500
+Porsche,911 Carrera 4S Cabriolet,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,18.5445,26.0617,21.3106,15.689436,417,2100,-2500
+Porsche,911 Carrera Cabriolet,2015,Rear-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.4,19.1036,27.13,22.0375,14.964294,404,2000,-2000
+Porsche,911 Carrera Cabriolet,2015,Rear-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.4,20.5425,28.1607,23.3899,14.327048,380,1900,-1500
+Porsche,911 Carrera GTS,2015,Rear-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.8,18.1649,26.1305,21.0529,15.689436,422,2100,-2500
+Porsche,911 Carrera GTS,2015,Rear-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,18.5684,26.0271,21.3175,15.689436,417,2100,-2500
+Porsche,911 Carrera GTS Cabriolet,2015,Rear-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.8,17.5998,25.1624,20.3524,16.4805,437,2200,-3000
+Porsche,911 Carrera GTS Cabriolet,2015,Rear-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,18.578,25.647,21.2085,15.689436,419,2100,-2500
+Porsche,911 Carrera S,2015,Rear-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.8,18.9514,27.1289,21.9255,14.964294,406,2000,-2000
+Porsche,911 Carrera S,2015,Rear-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,19.4,27.1,22.2,14.964294,398,2000,-2000
+Porsche,911 Carrera S Cabriolet,2015,Rear-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.8,18.8041,26.5097,21.6338,14.964294,410,2000,-2000
+Porsche,911 Carrera S Cabriolet,2015,Rear-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,19,27.2,22,14.964294,405,2000,-2000
+Porsche,911 GT3,2015,Rear-Wheel Drive,Auto(AM-S7),Two Seaters,4,6,3.8,14.7,20.4,16.8,19.381068,529,2600,-5000
+Porsche,911 Targa 4,2015,4-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.4,18.3,26.1,21.1,15.689436,420,2100,-2500
+Porsche,911 Targa 4,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.4,19.1,26.4,21.8,14.964294,407,2000,-2000
+Porsche,911 Targa 4S,2015,4-Wheel Drive,Manual 7-spd,Minicompact Cars,5,6,3.8,17.9,25.5,20.7,15.689436,430,2100,-2500
+Porsche,911 Targa 4S,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,18.4,25.4,21,15.689436,423,2100,-2500
+Porsche,911 Turbo,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,17.1697,24.4702,19.8323,16.4805,448,2200,-3000
+Porsche,911 Turbo S,2015,4-Wheel Drive,Auto(AM-S7),Minicompact Cars,5,6,3.8,17.1697,24.4702,19.8323,16.4805,448,2200,-3000
+Porsche,918 Spyder,2015,All-Wheel Drive,Auto(AM-S7),Two Seaters,7,8,4.6,20.4,23.5,21.7,10.40295132,277,2000,-250
+Porsche,Boxster,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,6,6,2.7,20.5,29.6,23.8,13.73375,374,1850,-1250
+Porsche,Boxster,2015,Rear-Wheel Drive,Auto(AM-S7),Two Seaters,6,6,2.7,21.9,31.9,25.5,12.657024,349,1700,-500
+Porsche,Boxster GTS,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,5,6,3.4,19.3636,26.4756,22.0261,14.964294,402,2000,-2000
+Porsche,Boxster GTS,2015,Rear-Wheel Drive,Auto(AM-S7),Two Seaters,6,6,3.4,21.5026,30.6563,24.8403,13.1844,357,1750,-750
+Porsche,Boxster S,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,5,6,3.4,19.7,27.5,22.6,14.327048,395,1900,-1500
+Porsche,Boxster S,2015,Rear-Wheel Drive,Auto(AM-S7),Two Seaters,6,6,3.4,20.8,29.8,24.1,13.73375,370,1850,-1250
+Porsche,Cayenne Diesel,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,5,6,3,19.6,29,22.9471,16.612308,442,2300,-3500
+Porsche,Cayenne S,2015,All-Wheel Drive,Auto(AM8),Standard Sport Utility Vehicle 4WD,5,6,3.6,16.9,24.5,19.6418,16.4805,452,2200,-3000
+Porsche,Cayenne S e-Hybrid,2015,All-Wheel Drive,Auto(AM8),Standard Sport Utility Vehicle 4WD,7,6,3,20.8,24.1,22.1,9.53202747,260,2000,-500
+Porsche,Cayenne Turbo,2015,All-Wheel Drive,Auto(AM8),Standard Sport Utility Vehicle 4WD,4,8,4.8,14.1,21,16.5465,19.381068,537,2600,-5000
+Porsche,Cayman,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,6,6,2.7,20.5,29.6,23.8,13.73375,374,1850,-1250
+Porsche,Cayman,2015,Rear-Wheel Drive,Auto(AM-S7),Two Seaters,6,6,2.7,21.9,31.9,25.5,12.657024,349,1700,-500
+Porsche,Cayman GTS,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,5,6,3.4,19.3636,26.4756,22.0261,14.964294,402,2000,-2000
+Porsche,Cayman GTS,2015,Rear-Wheel Drive,Auto(AM-S7),Two Seaters,6,6,3.4,21.5026,30.6563,24.8403,13.1844,357,1750,-750
+Porsche,Cayman S,2015,Rear-Wheel Drive,Manual 6-spd,Two Seaters,5,6,3.4,19.7,27.5,22.6,14.327048,395,1900,-1500
+Porsche,Cayman S,2015,Rear-Wheel Drive,Auto(AM-S7),Two Seaters,6,6,3.4,20.8,29.8,24.1,13.73375,370,1850,-1250
+Porsche,Macan S,2015,All-Wheel Drive,Auto(AM-S7),Small Sport Utility Vehicle 4WD,4,6,3,17.1522,22.8013,19.3044,17.337486,459,2350,-3750
+Porsche,Macan Turbo,2015,All-Wheel Drive,Auto(AM-S7),Small Sport Utility Vehicle 4WD,4,6,3.6,16.583,23.2893,19.0517,17.337486,467,2350,-3750
+Porsche,Panamera,2015,Rear-Wheel Drive,Auto(AM-S7),Large Cars,5,6,3.6,18.3,27.9,21.7,14.964294,411,2000,-2000
+Porsche,Panamera 4,2015,All-Wheel Drive,Auto(AM-S7),Large Cars,5,6,3.6,18,26.9,21.1,15.689436,421,2100,-2500
+Porsche,Panamera 4S,2015,All-Wheel Drive,Auto(AM-S7),Large Cars,5,6,3,17.4965,26.6685,20.7002,15.689436,429,2100,-2500
+Porsche,Panamera 4S Executive,2015,All-Wheel Drive,Auto(AM-S7),Large Cars,5,6,3,17.184,26.4853,20.4094,16.4805,436,2200,-3000
+Porsche,Panamera GTS,2015,All-Wheel Drive,Auto(AM-S7),Large Cars,4,8,4.8,15.5885,24.1929,18.5588,17.337486,480,2350,-3750
+Porsche,Panamera S,2015,Rear-Wheel Drive,Auto(AM-S7),Large Cars,5,6,3,17.4965,26.6685,20.7002,15.689436,429,2100,-2500
+Porsche,Panamera S E-Hybrid,2015,Rear-Wheel Drive,Auto(AM-S8),Large Cars,8,6,3,22.7,29.3,25.2605,8.076981364,229,1750,500
+Porsche,Panamera Turbo,2015,All-Wheel Drive,Auto(AM-S7),Large Cars,4,8,4.8,15.4,24.2,18.4,18.304342,483,2450,-4250
+Porsche,Panamera Turbo Executive,2015,All-Wheel Drive,Auto(AM-S7),Large Cars,4,8,4.8,15.3,23.9,18.3,18.304342,488,2450,-4250
+Porsche,Panamera Turbo S,2015,All-Wheel Drive,Auto(AM-S7),Large Cars,4,8,4.8,15.4,24.2,18.4,18.304342,483,2450,-4250
+Porsche,Panamera Turbo S Executive,2015,All-Wheel Drive,Auto(AM-S7),Large Cars,4,8,4.8,15.3,23.9,18.3,18.304342,488,2450,-4250
+Ram,1500 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 2WD,5,6,3.6,16.9277,24.7822,19.7436,16.4805,450,1900,-1500
+Ram,1500 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 2WD,5,6,3.6,16.9277,24.7822,19.7436,16.4805,450,1900,-1500
+Ram,1500 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 2WD,5,6,3,20.3126,27.8519,23.1301,16.612308,439,2300,-3500
+Ram,1500 2WD,2015,Rear-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 2WD,3,8,5.7,13.7551,19.5825,15.8819,20.589638,560,2600,-5000
+Ram,1500 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 2WD,4,8,5.7,14.922,21.5468,17.3181,19.381068,514,2450,-4250
+Ram,1500 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 4WD,4,6,3.6,16.1315,23.22,18.7005,17.337486,475,2000,-2000
+Ram,1500 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 4WD,4,6,3.6,16.1315,23.22,18.7005,17.337486,475,2000,-2000
+Ram,1500 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 4WD,5,6,3,19.4762,26.6475,22.1598,17.351199,459,2400,-4000
+Ram,1500 4WD,2015,4-Wheel Drive,Automatic 6-spd,Standard Pickup Trucks 4WD,3,8,5.7,13.3461,18.5162,15.264,21.974,583,2750,-5750
+Ram,1500 4WD,2015,4-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 4WD,4,8,5.7,14.6116,20.507,16.7827,19.381068,528,2450,-4250
+Ram,1500 HFE 2WD,2015,Rear-Wheel Drive,Automatic 8-spd,Standard Pickup Trucks 2WD,5,6,3.6,18.2448,25.3357,20.8737,15.689436,425,1800,-1000
+Ram,C/V Tradesman,2015,Front-Wheel Drive,Automatic 6-spd,Minivan - 2WD,5,6,3.6,17.6444,25.7855,20.5664,15.689436,432,1800,-1000
+Ram,C/V Tradesman,2015,Front-Wheel Drive,Automatic 6-spd,Minivan - 2WD,5,6,3.6,17.6444,25.7845,20.5664,15.689436,432,1800,-1000
+Ram,Promaster City,2015,Front-Wheel Drive,Automatic 9-spd,Special Purpose Vehicle 2WD,6,4,2.4,20.9913,28.8805,23.9333,13.73375,372,1600,0
+Rolls-Royce,Ghost,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,3,12,6.6,12.5264,20.9824,15.3013,21.974,580,2950,-6750
+Rolls-Royce,Ghost EWB,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,3,12,6.6,12.5264,20.9824,15.3013,21.974,580,2950,-6750
+Rolls-Royce,Phantom,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,2,12,6.7,11.485,18.5758,13.867,23.534154,638,3150,-7750
+Rolls-Royce,Phantom Coupe,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,2,12,6.7,11.485,18.5758,13.867,23.534154,638,3150,-7750
+Rolls-Royce,Phantom Drophead Coupe,2015,Rear-Wheel Drive,Automatic (S8),Compact Cars,2,12,6.7,11.4889,18.5489,13.8634,23.534154,637,3150,-7750
+Rolls-Royce,Phantom EWB,2015,Rear-Wheel Drive,Automatic (S8),Large Cars,2,12,6.7,11.4889,18.5489,13.8634,23.534154,637,3150,-7750
+Rolls-Royce,Wraith,2015,Rear-Wheel Drive,Automatic (S8),Midsize Cars,3,12,6.6,12.6018,21.1714,15.4084,21.974,577,2950,-6750
+Scion,FR-S,2015,Rear-Wheel Drive,Manual 6-spd,Minicompact Cars,6,4,2,21.5138,29.7973,24.5899,13.1844,360,1750,-750
+Scion,FR-S,2015,Rear-Wheel Drive,Automatic (S6),Minicompact Cars,7,4,2,24.5488,33.563,27.9236,11.75609,317,1600,0
+Scion,iQ,2015,Front-Wheel Drive,Automatic (variable gear ratios),Minicompact Cars,9,4,1.3,35.9924,37.3994,36.6122,8.89947,238,1050,2750
+Scion,tC,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,6,4,2.5,22.9626,30.9979,25.9949,12.657024,339,1450,750
+Scion,tC,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2.5,23.1009,30.7162,26.0018,12.657024,339,1450,750
+Scion,xB,2015,Front-Wheel Drive,Manual 5-spd,Small Station Wagons,6,4,2.4,21.7423,27.6458,24.0537,13.73375,367,1600,0
+Scion,xB,2015,Front-Wheel Drive,Automatic (S4),Small Station Wagons,6,4,2.4,21.5783,27.6458,23.943,13.73375,366,1600,0
+smart,fortwo cabriolet,2015,Rear-Wheel Drive,Auto(AM5),Two Seaters,8,3,1,34.4631,38.1688,36.0376,9.141184,244,1250,1750
+smart,fortwo coupe,2015,Rear-Wheel Drive,Auto(AM5),Two Seaters,8,3,1,34.4631,38.1688,36.0376,9.141184,244,1250,1750
+smart,fortwo electric drive convertible,2015,Rear-Wheel Drive,Automatic (A1),Two Seaters,10,NA,NA,121.66,93.24,106.9856,0.192,0,550,5250
+smart,fortwo electric drive coupe,2015,Rear-Wheel Drive,Automatic (A1),Two Seaters,10,NA,NA,121.66,93.24,106.9856,0.192,0,550,5250
+Subaru,BRZ,2015,Rear-Wheel Drive,Manual 6-spd,Minicompact Cars,6,4,2,21.505,29.7013,24.5542,13.1844,360,1750,-750
+Subaru,BRZ,2015,Rear-Wheel Drive,Automatic (S6),Minicompact Cars,7,4,2,24.5488,33.5061,27.9059,11.75609,317,1600,0
+Subaru,Forester AWD,2015,All-Wheel Drive,Manual 6-spd,Small Sport Utility Vehicle 4WD,6,4,2.5,22.0898,28.8121,24.6811,13.1844,362,1550,250
+Subaru,Forester AWD,2015,All-Wheel Drive,Automatic (variable gear ratios),Small Sport Utility Vehicle 4WD,7,4,2.5,24.4053,31.5409,27.1715,12.19557,328,1400,1000
+Subaru,Forester AWD,2015,All-Wheel Drive,Auto(AV-S8),Small Sport Utility Vehicle 4WD,6,4,2,23.1075,27.5771,24.9254,13.1844,357,1750,-750
+Subaru,Impreza AWD,2015,All-Wheel Drive,Manual 5-spd,Compact Cars,7,4,2,24.8045,33.9607,28.2294,11.75609,314,1350,1250
+Subaru,Impreza AWD,2015,All-Wheel Drive,Auto(AV-S6),Compact Cars,8,4,2,27.7611,36.725,31.1865,10.613442,284,1250,1750
+Subaru,Impreza Sport AWD,2015,All-Wheel Drive,Manual 5-spd,Small Station Wagons,7,4,2,24.118,33.3709,27.5563,11.75609,323,1350,1250
+Subaru,Impreza Sport AWD,2015,All-Wheel Drive,Auto(AV-S6),Small Station Wagons,8,4,2,27.1769,36.1314,30.5882,10.613442,290,1250,1750
+Subaru,Impreza Wagon AWD,2015,All-Wheel Drive,Manual 5-spd,Small Station Wagons,7,4,2,24.8045,33.9607,28.2294,11.75609,314,1350,1250
+Subaru,Impreza Wagon AWD,2015,All-Wheel Drive,Auto(AV-S6),Small Station Wagons,8,4,2,27.7611,36.725,31.1865,10.613442,284,1250,1750
+Subaru,Legacy AWD,2015,All-Wheel Drive,Auto(AV-S6),Midsize Cars,7,4,2.5,26.0464,36.1311,29.7878,10.987,298,1300,1500
+Subaru,Legacy AWD,2015,All-Wheel Drive,Auto(AV-S6),Midsize Cars,5,6,3.6,19.7361,28.7436,22.9762,14.327048,385,1650,-250
+Subaru,Outback AWD,2015,All-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 4WD,7,4,2.5,25.1325,32.9416,28.1337,11.75609,315,1350,1250
+Subaru,Outback AWD,2015,All-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 4WD,5,6,3.6,19.5877,27.2514,22.4257,14.964294,396,1750,-750
+Subaru,WRX,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2,21.1383,28.4009,23.887,13.73375,371,1850,-1250
+Subaru,WRX,2015,All-Wheel Drive,Manual 6-spd,Compact Cars,4,4,2.5,17.0411,23.1504,19.3375,17.337486,458,2350,-3750
+Subaru,WRX,2015,All-Wheel Drive,Auto(AV-S8),Compact Cars,5,4,2,18.9528,25.0457,21.2827,15.689436,405,2100,-2500
+Subaru,XV Crosstrek AWD,2015,All-Wheel Drive,Manual 5-spd,Small Sport Utility Vehicle 4WD,6,4,2,22.9626,30.5883,25.8642,12.657024,345,1450,750
+Subaru,XV Crosstrek AWD,2015,All-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 4WD,7,4,2,25.9755,33.5736,28.9208,11.360558,307,1300,1500
+Subaru,XV Crosstrek Hybrid AWD,2015,All-Wheel Drive,Auto(AV-S6),Small Sport Utility Vehicle 4WD,8,4,2,29.6183,34.1137,31.4854,10.613442,282,1250,1750
+Toyota,4Runner 2WD,2015,Rear-Wheel Drive,Automatic (S5),Standard Sport Utility Vehicle 2WD,4,6,4,16.9259,22.1877,18.948,17.337486,466,2000,-2000
+Toyota,4Runner 4WD,2015,Part-time 4-Wheel Drive,Automatic (S5),Standard Sport Utility Vehicle 4WD,4,6,4,16.5645,21.2926,18.4034,18.304342,478,2100,-2500
+Toyota,4Runner 4WD,2015,All-Wheel Drive,Automatic (S5),Standard Sport Utility Vehicle 4WD,4,6,4,16.5645,21.2926,18.4034,18.304342,478,2100,-2500
+Toyota,Avalon,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,6,3.5,20.6562,30.892,24.2758,13.73375,362,1600,0
+Toyota,Avalon Hybrid,2015,Front-Wheel Drive,Auto(AV-S6),Midsize Cars,9,4,2.5,40.3222,38.8285,39.6361,8.24025,223,950,3250
+Toyota,Camry,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,2.5,24.9068,35.3257,28,11.75609,317,1350,1250
+Toyota,Camry,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,6,6,3.5,21.3584,30.7245,24.7541,13.1844,358,1550,250
+Toyota,Camry Hybrid LE,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,9,4,2.5,42.6949,39.4347,41.1635,8.02051,215,950,3250
+Toyota,Camry Hybrid XLE/SE,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,9,4,2.5,40.4931,38.3826,39.5153,8.24025,224,950,3250
+Toyota,Corolla,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,8,4,1.8,28.7861,38.0707,32.3347,10.283832,276,1200,2000
+Toyota,Corolla,2015,Front-Wheel Drive,Automatic 4-spd,Midsize Cars,8,4,1.8,27.3176,36.4665,30.7942,10.613442,287,1250,1750
+Toyota,Corolla,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,8,4,1.8,27.92,36.9395,31.3664,10.613442,280,1250,1750
+Toyota,Corolla,2015,Front-Wheel Drive,Auto(AV-S7),Midsize Cars,8,4,1.8,28.6308,36.7626,31.7957,10.283832,278,1200,2000
+Toyota,Corolla LE Eco,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,8,4,1.8,30.4077,41.6511,34.6122,9.404872,257,1100,2500
+Toyota,Corolla LE Eco,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,8,4,1.8,30.4077,39.516,33.9267,9.690534,260,1100,2500
+Toyota,Highlander 2WD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,4,2.7,20.1064,24.7926,21.9756,14.964294,398,1750,-750
+Toyota,Highlander 2WD,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,6,3.5,18.5001,24.9512,20.9359,15.689436,424,1800,-1000
+Toyota,Highlander AWD,2015,All-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,5,6,3.5,18.1702,24.1929,20.4625,16.4805,437,1900,-1500
+Toyota,Highlander Hybrid 4WD,2015,All-Wheel Drive,Auto(AV-S6),Standard Sport Utility Vehicle 4WD,7,6,3.5,27.4502,27.9893,27.6902,11.75609,319,1350,1250
+Toyota,Highlander Hybrid 4WD LE Plus,2015,All-Wheel Drive,Auto(AV-S6),Standard Sport Utility Vehicle 4WD,7,6,3.5,28.0203,28.2832,28.138,11.75609,313,1350,1250
+Toyota,Land Cruiser Wagon 4WD,2015,4-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,3,8,5.7,13.0574,17.7843,14.8313,21.974,596,2550,-4750
+Toyota,Prius,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,10,4,1.8,50.8955,48.3119,49.6995,6.5922,178,750,4250
+Toyota,Prius c,2015,Front-Wheel Drive,Automatic (variable gear ratios),Compact Cars,10,4,1.5,52.5719,46.3076,49.5553,6.5922,178,750,4250
+Toyota,Prius Plug-in Hybrid,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Cars,10,4,1.8,50.5282,48.7284,49.7021,4.737143959,133,750,4500
+Toyota,Prius v,2015,Front-Wheel Drive,Automatic (variable gear ratios),Midsize Station Wagons,9,4,1.8,43.5116,40.1773,41.9451,7.844718,211,900,3500
+Toyota,RAV4,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,6,4,2.5,23.1839,30.3125,25.9277,12.657024,342,1450,750
+Toyota,RAV4 AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,6,4,2.5,22.3814,28.8121,24.8803,13.1844,354,1550,250
+Toyota,RAV4 LE/XLE,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,6,4,2.5,23.5414,30.8607,26.3541,12.657024,335,1450,750
+Toyota,RAV4 Limited AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,6,4,2.5,21.9722,28.5266,24.506,13.1844,360,1550,250
+Toyota,Sequoia 2WD,2015,Rear-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 2WD,3,8,5.7,12.8821,17.3919,14.5838,21.974,609,2550,-4750
+Toyota,Sequoia 4WD,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,2,8,5.7,12.5637,17.1476,14.2817,23.534154,617,2750,-5750
+Toyota,Sequoia 4WD FFV,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Sport Utility Vehicle 4WD,2,8,5.7,12.6946,17.3485,14.4374,23.534154,613,2750,-5750
+Toyota,Sienna 2WD,2015,Front-Wheel Drive,Automatic (S6),Minivan - 2WD,5,6,3.5,18.0287,24.8782,20.5782,15.689436,430,1800,-1000
+Toyota,Sienna AWD,2015,All-Wheel Drive,Automatic (S6),Minivan - 4WD,4,6,3.5,16.2835,23.0111,18.7504,17.337486,466,2000,-2000
+Toyota,Tacoma 2WD,2015,Rear-Wheel Drive,Manual 5-spd,Small Pickup Trucks 2WD,5,4,2.7,20.8442,24.724,22.428,14.964294,394,1750,-750
+Toyota,Tacoma 2WD,2015,Rear-Wheel Drive,Automatic 4-spd,Small Pickup Trucks 2WD,5,4,2.7,19.216,23.8586,21.0601,15.689436,419,1800,-1000
+Toyota,Tacoma 2WD,2015,Rear-Wheel Drive,Manual 6-spd,Small Pickup Trucks 2WD,4,6,4,16.2076,20.8459,18.011,18.304342,490,2100,-2500
+Toyota,Tacoma 2WD,2015,Rear-Wheel Drive,Automatic 5-spd,Small Pickup Trucks 2WD,4,6,4,17.1002,21.3746,18.7912,17.337486,469,2000,-2000
+Toyota,Tacoma 4WD,2015,Part-time 4-Wheel Drive,Manual 5-spd,Small Pickup Trucks 4WD,4,4,2.7,18.2451,20.3962,19.1541,17.337486,456,2000,-2000
+Toyota,Tacoma 4WD,2015,Part-time 4-Wheel Drive,Automatic 4-spd,Small Pickup Trucks 4WD,4,4,2.7,17.9451,20.9071,19.1671,17.337486,460,2000,-2000
+Toyota,Tacoma 4WD,2015,Part-time 4-Wheel Drive,Manual 6-spd,Small Pickup Trucks 4WD,4,6,4,15.3515,18.9658,16.7915,19.381068,523,2250,-3250
+Toyota,Tacoma 4WD,2015,Part-time 4-Wheel Drive,Automatic 5-spd,Small Pickup Trucks 4WD,4,6,4,15.9794,20.7057,17.8087,18.304342,499,2100,-2500
+Toyota,Tundra 2WD,2015,Rear-Wheel Drive,Automatic (S6),Standard Pickup Trucks 2WD,3,8,4.6,14.8331,19.09,16.4876,20.589638,537,2400,-4000
+Toyota,Tundra 2WD,2015,Rear-Wheel Drive,Automatic (S6),Standard Pickup Trucks 2WD,3,8,5.7,13.1954,17.7575,14.9203,21.974,596,2550,-4750
+Toyota,Tundra 4WD,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Pickup Trucks 4WD,3,8,4.6,14.048,18,15.7722,20.589638,570,2400,-4000
+Toyota,Tundra 4WD,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Pickup Trucks 4WD,3,8,5.7,13.1154,17.1488,14.6678,21.974,605,2550,-4750
+Toyota,Tundra 4WD FFV,2015,Part-time 4-Wheel Drive,Automatic (S6),Standard Pickup Trucks 4WD,3,8,5.7,13.0598,17.3129,14.683,21.974,604,2550,-4750
+Toyota,Venza,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,4,2.7,20.3282,26.1148,22.5797,14.327048,392,1650,-250
+Toyota,Venza,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,6,3.5,18.8433,25.9926,21.505,14.964294,412,1750,-750
+Toyota,Venza 4WD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,4,2.7,20.3282,25.6866,22.4342,14.964294,388,1750,-750
+Toyota,Venza 4WD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3.5,18.32,25.1631,20.8746,15.689436,423,1800,-1000
+Toyota,Yaris,2015,Front-Wheel Drive,Automatic 4-spd,Compact Cars,8,4,1.5,30.1704,35.5943,32.3915,10.283832,273,1200,2000
+Toyota,Yaris,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,8,4,1.5,30.4308,37.3315,33.1918,9.976196,266,1150,2250
+Volkswagen,Beetle,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,7,4,1.8,23.7579,32.6943,27.0899,12.19557,326,1400,1000
+Volkswagen,Beetle,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.8,24.7637,32.6943,27.798,11.75609,318,1350,1250
+Volkswagen,Beetle,2015,Front-Wheel Drive,Auto(AM-S6),Compact Cars,6,4,2,23.6856,29.5929,26.0232,12.657024,343,1700,-500
+Volkswagen,Beetle,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2,22.698,30.6082,25.685,12.657024,347,1700,-500
+Volkswagen,Beetle,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,8,4,2,30.5143,40.5292,34.3319,11.236239,296,1550,250
+Volkswagen,Beetle,2015,Front-Wheel Drive,Auto(AM-S6),Compact Cars,8,4,2,30.6516,40.5292,34.4273,11.236239,295,1550,250
+Volkswagen,Beetle Convertible,2015,Front-Wheel Drive,Automatic (S6),Subcompact Cars,7,4,1.8,23.974,32.2876,27.1159,12.19557,326,1400,1000
+Volkswagen,Beetle Convertible,2015,Front-Wheel Drive,Auto(AM-S6),Subcompact Cars,6,4,2,22.7135,28.5529,25.0157,13.1844,357,1750,-750
+Volkswagen,Beetle Convertible,2015,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,6,4,2,22.698,30.6082,25.685,12.657024,347,1700,-500
+Volkswagen,Beetle Convertible,2015,Front-Wheel Drive,Manual 6-spd,Subcompact Cars,8,4,2,29.6183,40.1317,33.5766,11.236239,303,1550,250
+Volkswagen,Beetle Convertible,2015,Front-Wheel Drive,Auto(AM-S6),Subcompact Cars,8,4,2,30.3081,39.6674,33.9083,11.236239,300,1550,250
+Volkswagen,CC,2015,Front-Wheel Drive,Auto(AM-S6),Compact Cars,6,4,2,21.8993,30.831,25.1821,13.1844,349,1750,-750
+Volkswagen,CC,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2,20.6665,31.8238,24.5378,13.1844,361,1750,-750
+Volkswagen,CC 4motion,2015,All-Wheel Drive,Automatic (S6),Compact Cars,5,6,3.6,16.9415,25.219,19.8774,16.4805,446,2200,-3000
+Volkswagen,e-Golf,2015,Front-Wheel Drive,Automatic (A1),Compact Cars,10,NA,NA,125.6,105.3,115.5536,0.174,0,550,5250
+Volkswagen,Eos,2015,Front-Wheel Drive,Auto(AM-S6),Subcompact Cars,6,4,2,21.7634,30.1121,24.8658,13.1844,354,1750,-750
+Volkswagen,Golf,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,7,4,1.8,25.3353,37.0021,29.5244,10.987,300,1300,1500
+Volkswagen,Golf,2015,Front-Wheel Drive,Auto(AM-S6),Compact Cars,8,4,2,31.1996,43.0359,35.6064,10.599264,285,1500,500
+Volkswagen,Golf,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.8,25.264,36.0643,29.1989,11.360558,305,1300,1500
+Volkswagen,Golf,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,8,4,2,30.4456,44.9367,35.6137,10.599264,286,1500,500
+Volkswagen,Golf R,2015,All-Wheel Drive,Auto(AM-S6),Compact Cars,6,4,2,23.0603,30.0715,25.7633,12.657024,343,1700,-500
+Volkswagen,GTI,2015,Front-Wheel Drive,Auto(AM-S6),Compact Cars,7,4,2,24.6434,32.6158,27.6891,11.75609,319,1600,0
+Volkswagen,GTI,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,7,4,2,24.9095,34.2917,28.407,11.75609,311,1600,0
+Volkswagen,Jetta,2015,Front-Wheel Drive,Auto(AM-S6),Compact Cars,7,4,2,23.5744,31.867,26.7012,12.19557,334,1650,-250
+Volkswagen,Jetta,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,6,4,2,22.895,32.6159,26.4413,12.657024,338,1700,-500
+Volkswagen,Jetta,2015,Front-Wheel Drive,Manual 6-spd,Compact Cars,8,4,2,30.6516,45.6549,35.9711,10.599264,283,1500,500
+Volkswagen,Jetta,2015,Front-Wheel Drive,Auto(AM-S6),Compact Cars,8,4,2,31.4045,44.6752,36.2501,10.599264,281,1500,500
+Volkswagen,Jetta,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,7,4,2,24.6629,33.9684,28.1307,11.75609,313,1350,1250
+Volkswagen,Jetta,2015,Front-Wheel Drive,Manual 5-spd,Compact Cars,7,4,1.8,25.1926,37.0021,29.4176,11.360558,301,1300,1500
+Volkswagen,Jetta,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,7,4,1.8,25.4066,37.0689,29.5967,10.987,298,1300,1500
+Volkswagen,Jetta,2015,Front-Wheel Drive,Automatic (S6),Compact Cars,6,4,2,22.5269,33.6412,26.4608,12.657024,337,1450,750
+Volkswagen,Jetta Hybrid,2015,Front-Wheel Drive,Auto(AM-S7),Compact Cars,10,4,1.4,42.0354,48.231,44.6144,7.317342,200,1000,3000
+Volkswagen,Passat,2015,Front-Wheel Drive,Manual 5-spd,Midsize Cars,7,4,1.8,24.1899,35.2585,28.1693,11.75609,314,1350,1250
+Volkswagen,Passat,2015,Front-Wheel Drive,Auto(AM-S6),Midsize Cars,8,4,2,29.6183,41.9168,34.1237,11.236239,298,1550,250
+Volkswagen,Passat,2015,Front-Wheel Drive,Automatic (S6),Midsize Cars,7,4,1.8,24.3335,35.7288,28.4112,11.75609,311,1350,1250
+Volkswagen,Passat,2015,Front-Wheel Drive,Manual 6-spd,Midsize Cars,8,4,2,29.8256,43.5614,34.7575,10.905012,293,1500,500
+Volkswagen,Passat,2015,Front-Wheel Drive,Auto(AM-S6),Midsize Cars,5,6,3.6,19.7174,27.8048,22.6868,14.327048,390,1900,-1500
+Volkswagen,Tiguan,2015,Front-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 2WD,5,4,2,20.5496,25.7855,22.6161,14.327048,392,1900,-1500
+Volkswagen,Tiguan 4motion,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,4,2,20.3807,25.8019,22.5089,14.327048,394,1900,-1500
+Volkswagen,Touareg,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,4,6,3.6,17.0411,22.7325,19.2048,17.337486,462,2350,-3750
+Volkswagen,Touareg,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,5,6,3,19.649,28.9961,22.9829,16.612308,442,2300,-3500
+Volkswagen,Touareg Hybrid,2015,All-Wheel Drive,Automatic (S8),Standard Sport Utility Vehicle 4WD,5,6,3,19.8843,23.7762,21.4655,15.689436,413,2100,-2500
+Volvo,S60 AWD,2015,All-Wheel Drive,Automatic (S6),Compact Cars,5,5,2.5,20.2543,28.538,23.2974,14.327048,375,1650,-250
+Volvo,S60 AWD,2015,All-Wheel Drive,Automatic (S6),Compact Cars,5,6,3,18.9,27.5,21.9953,14.964294,396,1750,-750
+Volvo,S60 FWD,2015,Front-Wheel Drive,Automatic (S8),Compact Cars,7,4,2,24.9236,36.6969,29.1287,11.360558,306,1300,1500
+Volvo,S60 FWD,2015,Front-Wheel Drive,Automatic (S8),Compact Cars,7,4,2,23.7059,34.7577,27.6642,11.75609,323,1600,0
+Volvo,S60 PoleStar AWD,2015,All-Wheel Drive,Automatic (S6),Compact Cars,5,6,3,18.3,27.1,21.4317,15.689436,408,1800,-1000
+Volvo,S80 AWD,2015,All-Wheel Drive,Automatic (S6),Midsize Cars,5,6,3,18.9,27.5,21.9953,14.964294,396,1750,-750
+Volvo,S80 FWD,2015,Front-Wheel Drive,Automatic (S8),Midsize Cars,7,4,2,24.9236,36.6969,29.1287,11.360558,306,1300,1500
+Volvo,V60 AWD,2015,All-Wheel Drive,Automatic (S6),Small Station Wagons,5,5,2.5,20.2543,28.538,23.2974,14.327048,375,1650,-250
+Volvo,V60 AWD,2015,All-Wheel Drive,Automatic (S6),Small Station Wagons,5,6,3,18.9,27.5,21.9953,14.964294,396,1750,-750
+Volvo,V60 FWD,2015,Front-Wheel Drive,Automatic (S8),Small Station Wagons,7,4,2,24.9236,36.6969,29.1287,11.360558,306,1300,1500
+Volvo,V60 PoleStar AWD,2015,All-Wheel Drive,Automatic (S6),Small Station Wagons,5,6,3,18.3,27.1,21.4317,15.689436,408,1800,-1000
+Volvo,XC60 AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,5,2.5,18.1,25.1,20.6975,15.689436,420,1800,-1000
+Volvo,XC60 AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3,17.2799,23.6195,19.6537,16.4805,434,1900,-1500
+Volvo,XC60 AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3.2,17.8507,24.8,20.4264,16.4805,429,1900,-1500
+Volvo,XC60 FWD,2015,Front-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 2WD,7,4,2,24.046,31.133,26.7903,12.19557,333,1400,1000
+Volvo,XC60 FWD,2015,Front-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 2WD,6,4,2,21.9075,30.417,25.0627,13.1844,356,1750,-750
+Volvo,XC70 AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3,17.2799,23.6195,19.6537,16.4805,434,1900,-1500
+Volvo,XC70 AWD,2015,All-Wheel Drive,Automatic (S6),Small Sport Utility Vehicle 4WD,5,6,3.2,18,25.103,20.6263,15.689436,420,1800,-1000
+Volvo,XC70 FWD,2015,Front-Wheel Drive,Automatic (S8),Small Sport Utility Vehicle 2WD,7,4,2,24.046,31.133,26.7903,12.19557,333,1400,1000
