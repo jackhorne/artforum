@@ -1,0 +1,120 @@
+/*STYLESHEET FOR US DEBT GRAPH*/
+
+body {
+	font-family: "Segoe UI";
+	font-size: 11px;
+	margin-top: 1em;
+    overflow-y: scroll;
+    text-rendering: optimizelegibility;
+}
+
+
+#fullGraphic {
+	width: 910px;
+	height: 100%;
+	padding-bottom: 30px;
+	position: relative;
+}
+
+#chart {
+	width: 960px;
+	height: 500px;
+}
+
+.gallery {
+    left: -240px;
+    position: relative;
+    width: 970px;
+}
+
+button {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    background-color: #222;
+    background-image: -moz-linear-gradient(center top , rgba(255, 255, 255, 0.25), rgba(255, 255, 255, 0.11));
+    border-color: -moz-use-text-color -moz-use-text-color #222;
+    border-image: none;
+    border-radius: 0;
+    border-style: none none solid;
+    border-width: 0 0 1px;
+    color: #fff;
+	font-size: 11px;
+    margin: 0;
+	min-width: 80px;
+    padding: 6px 10px;
+    text-rendering: optimizelegibility;
+    text-shadow: 0 -1px 1px #222;
+}
+button.first {
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+}
+button.last {
+    border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}
+button.active {
+    background-color: rgb(65, 102, 133);
+}
+button:hover {
+    background-color: steelblue;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.bar {
+  fill: steelblue;
+}
+
+rect:hover {
+	fill: steelblue;
+	cursor: pointer;
+}
+
+.tooltip {
+	position: absolute;
+	pointer-events: none;
+	color: #8c9194;
+	padding: 8px;
+	font-family: "Segoe UI";
+	font-size: 13px;
+	line-height: 18px;
+	background-color: rgba(0,0,0,0.75);
+	border-radius: 2px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.axis text {
+	font-size: 10px;
+}
+
+.axis path,
+.axis line {
+	fill: none;
+	stroke: #f2f2f2;
+	stroke-width: 0.4;
+}
+
+.fYear {
+	font-weight: 600;
+	font-size: 13px;
+	color: #fff;
+}
+
+.boxValue {
+	color: #fff;
+}
+
+
+
+
+
+
+
+

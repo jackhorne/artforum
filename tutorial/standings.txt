@@ -1,0 +1,9 @@
+team	wins	losses
+Golden State	50	12
+Memphis	45	18
+Houston	43	20
+Portland	41	20
+L.A. Clippers	41	23
+Dallas	41	24
+San Antonio	39	23
+Oklahoma City	35	28

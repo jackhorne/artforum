@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+	<title>Kitties!</title>
+	<style>
+		body { font-family: "Segoe UI"; font-size: 12px; }
+	</style>
+	<script type="text/javascript" src="d3.js"></script>
+  </head>
+  <body>
+    <script>
+	  //Now we're coding in javascript
+	  var body = d3.select("body");
+	  body.append("h2")
+	    .text("Proximity to Cats");
+	  body.append("p")
+	    .text("Here is a cartoon I found on the Internets.");
+	  body.append("p").append("img")
+	    .attr("src", "cat_proximity.png")
+	    .attr("width", "360px");
+    </script>
+  </body>
+</html>

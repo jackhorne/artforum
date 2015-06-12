@@ -1,0 +1,66 @@
+
+body {
+  font-family: "Segoe UI";
+  font-size: 12px;
+}
+
+.axis path, .axis line, .sBox {
+  fill: none;
+  stroke: grey;
+  shape-rendering: crispEdges;
+}
+
+.axis text {
+	font-size: 10px;
+}
+
+.brush .extent {
+  fill-opacity: .125;
+  shape-rendering: crispEdges;
+}
+
+.slider, .handle {
+  fill: lightgrey;
+  stroke: #000;
+  stroke-opacity: .5;
+  stroke-width: .5px;
+  cursor: pointer;
+}
+
+.handle:hover {
+	fill: lightblue;
+}
+
+.txtVal {
+	font-family: "Segoe UI";
+	font-size: 16px;
+	font-weight: 700;
+}
+
+.txtVal2 {
+	font-family: "Segoe UI";
+	font-size: 13px;
+	font-weight: 400;
+}
+
+.intR1 {
+	fill: green;
+	stroke: none;
+}
+
+.intR2 {
+	fill: blue;
+	stroke: none;
+}
+
+.intR3 {
+	fill: lightgrey;
+	stroke: none;
+}
+
+.indctr {
+	fill: red;
+	stroke: none;
+}
+
+

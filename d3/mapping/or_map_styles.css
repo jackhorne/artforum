@@ -1,0 +1,52 @@
+/*STYLESHEET FOR OR COUNTIES GRAPHIC*/
+
+body {
+	font-family: "Segoe UI";
+	font-size: 12px;
+}
+
+path {
+	fill: grey;
+	stroke: white;
+	stroke-width: 0.25;
+	stroke-linejoin: round;
+}
+
+path:hover {
+	fill: green;
+	cursor: pointer;
+}
+
+.q0-8 { fill:rgb(255,33,33); }
+.q1-8 { fill:rgb(255,129,129); }
+.q2-8 { fill:rgb(255,204,204); }
+.q3-8 { fill:rgb(255,241,241); }
+.q4-8 { fill:rgb(236,251,255); }
+.q5-8 { fill:rgb(204,236,255); }
+.q6-8 { fill:rgb(87,171,255); }
+.q7-8 { fill:rgb(0,54,255); }
+
+.tooltip {
+	position: absolute;
+	pointer-events: none;
+	color: #8c9194;
+	padding: 8px;
+	font-family: "Segoe UI";
+	font-size: 12px;
+	line-height: 18px;
+	background-color: rgba(0,0,0,0.75);
+	border-radius: 2px;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+.countyName {
+	font-weight: 600;
+	font-size: 13px;
+	color: #fff;
+}
+
+.electionResult {
+	color: #fff;
+}
